@@ -715,9 +715,9 @@ h1 {
 }
 
 .info-people-alumni {
-    width: 350px;
+    width: 800px;
     margin-left: 10px;
-    position: relative;
+    position: absolute;
     top: 15px;
 }
 
