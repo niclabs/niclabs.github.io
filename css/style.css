@@ -23,6 +23,17 @@ src: url(../fonts/Hind-Regular.ttf) format("truetype");
     left: 0px;
 }
 
+.menu-people {
+    display:inline-table;
+    position: relative;
+    height:auto;
+    width:700px;
+    top: 10px;
+    left: 0px;
+}
+
+
+
 .banner {
     display:inline-table;
     height:6vh;
@@ -149,12 +160,21 @@ src: url(../fonts/Hind-Regular.ttf) format("truetype");
     top: 900px;
 }
 
-#footerfinal-people {
-    position:absolute;
+.seccion {
+    position: relative;
+    display: block;
     width: 700px;
+    float: left;
     margin: auto;
     height: auto;
-    top: 5000px;
+}
+
+.footerfinal-people {
+    position: relative;
+    display: block;
+    top: 0px;
+    width: 700px;
+    height: auto;
 }
 
 
@@ -206,35 +226,52 @@ h1 {
     text-align: center;
 }
 
-.seccion1-people {
+.people {
     display: block;
     height: auto;
-    width: 350px;
+    width: 340px;
     float: left;
     position: relative;
     bottom: 0px;
-    top: 20px;
+    top: 0px;
+    margin: 5px 5px 5px 5px;
 }
 
-#javier-tex {
+.people img {
+    position: relative;
+    float: left;
+    width: 100px;
+}
+
+.people .names {
     float: left;
     position: relative;
-    text-align: left;
-}
-
-.FOTO-JAVIER {
-    float: left;
-    position: relative;
-}
-
-.JAVIER-BUSTOS {
-    height: 131px;
-    width: 350px;
-}
-
-#nombre-javier {
     font-size: 17px;
-    text-align: left;
+    top: 10px;
+    left: 10px;
+    width:220px;
+}
+
+.people .text {
+    float: left;
+    position: relative;
+    width: 220px;
+    top: 10px;
+    left: 10px;
+}
+
+.people .rrss {
+    float: left;
+    position: relative;
+    width: 200px;
+    top: 10px;
+    left: 10px;
+}
+
+.people .rs {
+    width: 20px;
+    float: left;
+    position: relative;
 }
 
 #title-reseachers {
@@ -555,8 +592,7 @@ h1 {
 }
 
 .cabecera-people {
-    position: absolute;
-    top: 70px;
+    position: relative;
 }
 
 .reseachers {
@@ -571,7 +607,7 @@ h1 {
 
 .content-people {
     width: 700px;
-    height: 5000px;
+    height: auto;
     margin: auto;
     position: relative;
     clear:left;

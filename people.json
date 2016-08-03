@@ -1,0 +1,337 @@
+[
+  { 
+  "name" : "Sandra",
+  "last" : "Cespedes",
+  "aff" : "DIE, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.cec.uchile.cl/~scespedes",
+  "twitter" : "scespedes",
+  "github" : "scespedes",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Javier",
+  "last" : "Bustos-Jimenez",
+  "aff" : "DCC, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~jbustos",
+  "twitter" : "madestro",
+  "github" : "madestro",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Jose",
+  "last" : "Piquer",
+  "aff" : "DCC, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~jpiquer",
+  "twitter" : "jpiquer",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Alejandro",
+  "last" : "Hevia",
+  "aff" : "DCC, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~ahevia",
+  "twitter" : "ahevia",
+  "github": "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Rodrigo",
+  "last" : "Arenas",
+  "group" : "pro",
+  "job" : "Sysadmin",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Sebastian",
+  "last" : "Blasco",
+  "group" : "pro",
+  "job" : "Research Engineer",
+  "www" : "",
+  "twitter" : "sebablasko",
+  "github" : "sebablasko",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Boris",
+  "last" : "Romero",
+  "group" : "pro",
+  "job" : "Research Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "Zeeerooo",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Quintanilla",
+  "group" : "pro",
+  "job" : "Research Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Karen",
+  "last" : "Vergara",
+  "group" : "pro",
+  "job" : "Journalist",
+  "www" : "",
+  "twitter" : "karend3nisse",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Patricia",
+  "last" : "Martinez",
+  "group" : "pro",
+  "job" : "Administrative Assistant",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Mauricio",
+  "last" : "Araya",
+  "group" : "external",
+  "aff" : "Computing and Modeling, Shell Oil USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Patricio",
+  "last" : "Reyes",
+  "group" : "external",
+  "aff" : "ITMATI, Spain",
+  "www" : "",
+  "twitter" : "pareyesv",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Tobias",
+  "last" : "Schreck",
+  "group" : "external",
+  "aff" : "Graz University of Technology, Austria",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Londoño",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Camila",
+  "last" : "Faundez",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Ivana",
+  "last" : "Bachmann",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Camilo",
+  "last" : "Gomez",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "milogomez_",
+  "github" : "CamiloG",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Fernando",
+  "last" : "Morales",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "fernandogmc",
+  "github" : "nanocatdemen",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Francisco",
+  "last" : "Montoto",
+  "group" : "grad",
+  "grad" : "MSc",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Maite",
+  "last" : "Gonzalez",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Benjamin",
+  "last" : "Holloway",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Madariaga",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Caterina",
+  "last" : "Muñoz",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Manuel",
+  "last" : "Olguin",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Salomon",
+  "last" : "Torres",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Alvaro",
+  "last" : "Graves",
+  "group" : "alumni",
+  "aff" : "ScaleFreeLab LLC",
+  "www" : "http://www.scalefreelab.com",
+  "twitter" : "alvarograves",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Gabriel",
+  "last" : "Del Canto",
+  "group" : "alumni",
+  "aff" : "Kidint",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Lalanne",
+  "group" : "alumni",
+  "aff" : "INRIA Chile",
+  "www" : "http://www.inria.cl",
+  "twitter" : "pipex",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Giselle",
+  "last" : "Font",
+  "group" : "alumni",
+  "aff" : "Google SRE",
+  "www" : "",
+  "twitter" : "",
+  "github" : "gisellef",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Rivera",
+  "group" : "alumni",
+  "aff" : "Telecom Sud Paris, France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Ma. Grazia",
+  "last" : "Prato",
+  "group" : "alumni",
+  "aff" : "INRIA Chile",
+  "www" : "",
+  "twitter" : "graziaprato",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  },
+  {
+  "name" : "Gonzalo",
+  "last" : "Muñoz",
+  "group" : "alumni",
+  "aff" : "NIC Chile",
+  "www" : "http://www.nic.cl",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Hugo",
+  "last" : "Meric",
+  "group" : "alumni",
+  "aff" : "ALTEN, France",
+  "www" : "http://hugo.meric.perso.sfr.fr/",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Francisco",
+  "last" : "Cifuentes",
+  "group" : "alumni",
+  "aff" : "Synopsys Inc",
+  "www" : "",
+  "twitter" : "franchococq",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  }
+]
+
