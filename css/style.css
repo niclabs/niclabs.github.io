@@ -16,7 +16,7 @@ src: url(../fonts/Hind-Regular.ttf) format("truetype");
 
 .menu {
     display:inline-table;
-    position: absolute;
+    position: relative;
     height:auto;
     width:700px;
     top: 10px;    
@@ -125,7 +125,6 @@ src: url(../fonts/Hind-Regular.ttf) format("truetype");
     width: 700px;
     height: 600px;
     position: relative;
-    top: 100px;
     float: left;
 }
 
@@ -140,7 +139,7 @@ src: url(../fonts/Hind-Regular.ttf) format("truetype");
 
 .seccion2 {
     display: block;
-    height: 560px;
+    height: auto;
     width: 330px;
     float: right;
     position: relative;
@@ -437,14 +436,14 @@ h1 {
 }
 
 .projects {
-    width: 350px;
-    height: 150px;
+    width: 220px;
     float: left;
 }
 
 .dns {
-    position: absolute;
-    top: 140px;
+    position: relative;
+    width: 220px;
+    float: left;
 }
 
 .project-image {
@@ -464,21 +463,21 @@ h1 {
 .middle-line {
     width: 700px;
     height: 10px;
-    position: absolute;
-    bottom: 0;
+    position: relative;
+    float: left;
     background-image: url("../images/MIDDLE-LINE.png");
 }
 
 .latest-publications {
     width: 700px;
     position: relative;
-    float: top;
+    float: left;
 }
 
 .menu-publicaciones {
     width: 700px;
     position: relative;
-    float: top;
+    float: left;
 }
 
 .menu-publicaciones hr {
@@ -501,11 +500,9 @@ h1 {
 
 .info-article {
     width: 650px;
-    height: 40px;
     right: 0px;
     position: relative;
     float: right;
-    top: 5px;
 }
 
 .article-icon-image {
@@ -515,9 +512,8 @@ h1 {
 
 .article {
     width: 700px;
-    height: 32px;
     position: relative;
-    top: 22px;
+    float: left;
 }
 
 #article-title {
@@ -549,17 +545,14 @@ h1 {
 
 .secciones-research {
     width: 700px;
-    height: 300px;
-    top:100px;
-    position: absolute;
+    position: relative;
     float: left;
 }
 
 .secciones-publicaciones {
     width: 700px;
-    position: absolute;
-    top: 300;
-    bottom: 0;
+    position: relative;
+    float: left;
 }
 
 .cabecera {
@@ -570,7 +563,9 @@ h1 {
 }
 
 .adkintun {
-   
+   width: 220px;
+   position: relative;
+   float: left;
 }
 
 #titulo-proyectos {
@@ -588,9 +583,8 @@ h1 {
 .cabecera-research {
     width: 700px;
     height: 5px;
-    position: absolute;
-    top: 70px;
-    float:left:
+    position: relative;
+    float:left;
 }
 
 .navbar-nav {
@@ -741,14 +735,13 @@ h1 {
     margin: auto;
     position: relative;
     clear:left;
-    height: 5650px;
 }
 
 #footerfinal-research {
-    position:absolute;
+    position: relative;
     width: 700px;
-    height: 300px;
-    bottom: -350px;
+    float: left;
+    top: 20px;
 }
 
 #nombre-CHIQUI {
