@@ -241,6 +241,7 @@ h1 {
     height: 100px;
     position: relative;
     float: left;
+    opacity: 0.8;
     clip-path: circle(50px at 50px 50px);
     -webkit-clip-path: circle(50px at 50px 50px);
 }
