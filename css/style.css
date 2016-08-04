@@ -237,10 +237,13 @@ h1 {
     margin: 5px 5px 5px 5px;
 }
 
-.people img {
+.people .foto {
+    width: 100px;
+    height: 100px;
     position: relative;
     float: left;
-    width: 100px;
+    clip-path: circle(50px at 50px 50px);
+    -webkit-clip-path: circle(50px at 50px 50px);
 }
 
 .people .names {
@@ -893,3 +896,4 @@ h1 {
 .proyects {
     margin-top: 70px;
 }
+

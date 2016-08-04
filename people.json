@@ -7,7 +7,7 @@
   "www" : "http://www.cec.uchile.cl/~scespedes",
   "twitter" : "scespedes",
   "github" : "scespedes",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "http://www.cec.uchile.cl/~scespedes/images/scespedes.png"
   },
   {
   "name" : "Javier",
@@ -17,7 +17,7 @@
   "www" : "http://www.dcc.uchile.cl/~jbustos",
   "twitter" : "madestro",
   "github" : "madestro",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://avatars0.githubusercontent.com/u/1881645?v=3&s=460"
   },
   {
   "name" : "Jose",
@@ -27,7 +27,7 @@
   "www" : "http://www.dcc.uchile.cl/~jpiquer",
   "twitter" : "jpiquer",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "http://users.dcc.uchile.cl/~jpiquer/Piquer2002.jpg"
   },
   {
   "name" : "Alejandro",
@@ -37,7 +37,7 @@
   "www" : "http://www.dcc.uchile.cl/~ahevia",
   "twitter" : "ahevia",
   "github": "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/444053492/ale_400x400.png"
   },
   {
   "name" : "Rodrigo",
@@ -57,7 +57,7 @@
   "www" : "",
   "twitter" : "sebablasko",
   "github" : "sebablasko",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/623304882330697728/ejxutBen_400x400.jpg"
   },
   {
   "name" : "Boris",
@@ -67,7 +67,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://avatars1.githubusercontent.com/u/4457970?v=3&s=460"
   },
   {
   "name" : "Felipe",
@@ -77,7 +77,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/625833686987067392/D82sos-X_400x400.jpg"
   },
   {
   "name" : "Karen",
@@ -87,7 +87,7 @@
   "www" : "",
   "twitter" : "karend3nisse",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/722654501988077568/A29xDvc5_400x400.jpg"
   },
   {
   "name" : "Patricia",
@@ -117,7 +117,7 @@
   "www" : "",
   "twitter" : "pareyesv",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "http://www.est.uc3m.es/patricioreyes/images/patricio_reyes.jpg"
   },
   {
   "name" : "Tobias",
@@ -155,9 +155,9 @@
   "group" : "grad",
   "grad" : "MSc",
   "www" : "",
-  "twitter" : "",
+  "twitter" : "ivapls",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/741248302272897024/s3Um0kH__400x400.jpg"
   },
   {
   "name" : "Camilo",
@@ -167,7 +167,7 @@
   "www" : "",
   "twitter" : "milogomez_",
   "github" : "CamiloG",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://avatars2.githubusercontent.com/u/4451287?v=3&s=460"
   },
   {
   "name" : "Fernando",
@@ -186,8 +186,8 @@
   "grad" : "MSc",
   "www" : "",
   "twitter" : "",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "github" : "fmontoto",
+  "picurl" : "https://avatars1.githubusercontent.com/u/6362075?v=3&s=460"
   },
   {
   "name" : "Maite",
@@ -195,8 +195,8 @@
   "group" : "under",
   "www" : "",
   "twitter" : "",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "github" : "maitegm",
+  "picurl" : "https://pbs.twimg.com/profile_images/704314444889899009/V2N0cX8h_bigger.jpg"
   },
   {
   "name" : "Benjamin",
@@ -204,8 +204,8 @@
   "group" : "under",
   "www" : "",
   "twitter" : "",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "github" : "bhollowa",
+  "picurl" : "https://avatars1.githubusercontent.com/u/2522581?v=3&s=460"
   },
   {
   "name" : "Diego",
@@ -231,8 +231,8 @@
   "group" : "under",
   "www" : "",
   "twitter" : "",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "github" : "molguin92",
+  "picurl" : "https://avatars2.githubusercontent.com/u/1755518?v=3&s=400"
   },
   {
   "name" : "Salomon",
@@ -240,8 +240,17 @@
   "group" : "under",
   "www" : "",
   "twitter" : "",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "github" : "torress",
+  "picurl" : "https://avatars2.githubusercontent.com/u/9119756?v=3&s=460"
+  },
+  {
+  "name" : "Tomas",
+  "last" : "Wolf",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "twolfvb",
+  "picurl" : "https://avatars1.githubusercontent.com/u/6362310?v=3&s=460"
   },
   {
   "name" : "Alvaro",
@@ -251,7 +260,7 @@
   "www" : "http://www.scalefreelab.com",
   "twitter" : "alvarograves",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://avatars0.githubusercontent.com/u/259102?v=3&s=460"
   },
   {
   "name" : "Gabriel",
@@ -261,7 +270,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/705717278017527808/RE5TIOm__400x400.jpg"
   },
   {
   "name" : "Felipe",
@@ -270,8 +279,8 @@
   "aff" : "INRIA Chile",
   "www" : "http://www.inria.cl",
   "twitter" : "pipex",
-  "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "github" : "pipex",
+  "picurl" : "https://avatars0.githubusercontent.com/u/1822826?v=3&s=460"
   },
   {
   "name" : "Giselle",
@@ -291,7 +300,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/600228583605465088/NTVTwJzY_bigger.jpg"
   },
   {
   "name" : "Ma. Grazia",
@@ -301,7 +310,7 @@
   "www" : "",
   "twitter" : "graziaprato",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/689617898961256448/VtTQd5FF_bigger.jpg"
   },
   {
   "name" : "Gonzalo",
@@ -331,7 +340,7 @@
   "www" : "",
   "twitter" : "franchococq",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://pbs.twimg.com/profile_images/412403168480210945/cKKT3_iU_400x400.png"
   }
 ]
 
