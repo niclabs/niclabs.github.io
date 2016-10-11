@@ -83,7 +83,7 @@
   "name" : "Karen",
   "last" : "Vergara",
   "group" : "pro",
-  "job" : "Journalist",
+  "job" : "Communications",
   "www" : "",
   "twitter" : "karend3nisse",
   "github" : "",
@@ -104,6 +104,16 @@
   "last" : "Araya",
   "group" : "external",
   "aff" : "Computing and Modeling, Shell Oil USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  },
+  {
+  "name" : "Alonso",
+  "last" : "Silva",
+  "group" : "external",
+  "aff" : "NOKIA Bell Labs, France",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -217,6 +227,15 @@
   "picurl" : "https://static.u-cursos.cl/r/usuario/c8/c8856e4d2b9e38775b11f38eb8ae3d97/datos_usuario/d3866a6e683558b63de0e1860675c9e1.jpg"
   },
   {
+  "name" : "Cristian",
+  "last" : "Parra",
+  "group" : "under",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://static.u-cursos.cl/r/usuario/c6/c689d9c2af8215b1a956a7c6a357db67/datos_usuario/7088c337d09d1120943930a96c46c155.jpg"
+  },
+  {
   "name" : "Caterina",
   "last" : "Muñoz",
   "group" : "under",
@@ -292,6 +311,27 @@
   "github" : "gisellef",
   "picurl" : "https://lh3.googleusercontent.com/-QBXuRHk0Lu0/AAAAAAAAAAI/AAAAAAAAAD4/wKjN1xfweII/s120-c/photo.jpg"
   },
+  {
+  "name" : "Victor",
+  "last" : "Ramiro",
+  "group" : "alumni",
+  "aff" : "ISAE France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "http://pleiad.cl/_media/people/vramiro.jpg?w=100&tok=80f091"
+  },
+  {
+  "name" : "Cecilia",
+  "last" : "Testart",
+  "group" : "alumni",
+  "aff" : "Engineering Systems Division, MIT",
+  "www" : "",
+  "twitter" : "",
+  "github" : "", 
+  "picurl" : "http://ecir.mit.edu/images/stories/ECIR%20website%20staff%20pics/Cecilia_Testart.jpg"
+  },
+
   {
   "name" : "Diego",
   "last" : "Rivera",
