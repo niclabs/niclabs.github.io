@@ -2,10 +2,10 @@ open postdoc position, starting on January 2017
 -----------------------------------------------
 
 * Subject: Data analysis of internet measurements.
-* Position: The position is for a year renewable.
+* Position: The position is for a year renewable upon mutual interest.
 * Location:  NIC Chile Research Labs (NIC Labs), FCFM Universidad de Chile,
 Santiago, Chile.
-* Salary: $1.5 MM (aprox €2000, USD$2200) per month.
+* Salary: CLP$1.5 MM (aprox €2000, USD$2200) per month.
 
 Candidates must have a PhD in computer science or related field,
 proven past experience in big data processing, have a strong publication
@@ -31,6 +31,6 @@ Data Analysis.  The main idea is to help exploring the following directions:
 predicting behaviors.
 2.- identification of feature selection algorithms allowing us to
 statistically infer causal relationships among metrics.
-3.- data visualization of two above.
+3.- data visualization.
 
 
