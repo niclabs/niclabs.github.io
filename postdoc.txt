@@ -5,7 +5,7 @@ open postdoc position, starting on January 2017
 * Position: The position is for a year renewable upon mutual interest.
 * Location:  NIC Chile Research Labs (NIC Labs), FCFM Universidad de Chile,
 Santiago, Chile.
-* Salary: CLP$1.5 MM (aprox €2000, USD$2200) per month.
+* Entry-level salary: CLP$1.5 MM (aprox €2000, USD$2200) per month (gross) depending on qualifications.
 
 Candidates must have a PhD in computer science or related field,
 proven past experience in big data processing, have a strong publication
