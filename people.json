@@ -47,7 +47,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/1/000/055/16e/30feb0e.jpg"
   },
   {
   "name" : "Maria Jose",
@@ -117,7 +117,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/009/028/2698224.jpg"
   },
   {
   "name" : "Alonso",
@@ -127,7 +127,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/000/1d8/38a/389afbf.jpg"
   },
   {
   "name" : "Patricio",
@@ -147,7 +147,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "http://cgv.tugraz.at/CGV/people/people/Schreck/image.jpg"
   },
   {
   "name" : "Diego",
@@ -516,7 +516,7 @@
   "name" : "Javiera",
   "last" : "Born",
   "group" : "alumni",
-  "aff" : "Software Engineer, Greater Boston Area, USA",
+  "aff" : "Software Engineer, USA",
   "www" : "",
   "twitter" : "booorn",
   "github" : "",
