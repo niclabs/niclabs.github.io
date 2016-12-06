@@ -403,6 +403,76 @@
   "picurl" : "https://pbs.twimg.com/profile_images/412403168480210945/cKKT3_iU_400x400.png"
   },
   {
+  "name" : "Tomas",
+  "last" : "Barros",
+  "group" : "alumni",
+  "aff" : "IT innovation projects",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/media/p/4/000/14d/07b/028a6aa.jpg"
+  },
+{
+  "name" : "Mario",
+  "last" : "Cornejo",
+  "group" : "alumni",
+  "aff" : "SNIPS, France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAlHAAAAJDIwODIwNDUzLWZjMjEtNDZjYS1hNmQwLWI1M2QyOTJmZjQ0MA.jpg"
+  },
+  {
+  "name" : "Mario",
+  "last" : "Leyton",
+  "group" : "alumni",
+  "aff" : "Google, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "mleyton",
+  "picurl" : "https://avatars3.githubusercontent.com/u/123413"
+  },
+    {
+  "name" : "Antonio",
+  "last" : "Cansado",
+  "group" : "alumni",
+  "aff" : "Google, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "acansado",
+  "picurl" : "https://avatars1.githubusercontent.com/u/777912"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Valenzuela",
+  "group" : "alumni",
+  "aff" : "INRIA, Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "pvalenzuela",
+  "picurl" : "https://avatars0.githubusercontent.com/u/276864"
+  },
+   {
+  "name" : "Alvaro",
+  "last" : "Neira",
+  "group" : "alumni",
+  "aff" : "RIPLEY Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAVHAAAAJDc5MzNlYWRjLWZkNjYtNGMwNS05NjMwLTgxODJmMDcyNzE2Nw.jpg"
+  },
+  {
+  "name" : "Pamela",
+  "last" : "Carvallo",
+  "group" : "alumni",
+  "aff" : "MontImage, France",
+  "www" : "",
+  "twitter" : "funkehlady",
+  "github" : "pcarvallo",
+  "picurl" : "https://avatars1.githubusercontent.com/u/945564"
+  },
+  {
   "name" : "Jacqueline",
   "last" : "Araya",
   "group" : "alumni",
