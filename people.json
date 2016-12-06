@@ -77,7 +77,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
-  "picurl" : "https://avatars1.githubusercontent.com/u/4457970?v=3&s=460"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAcwAAAAJGQ4NTljOWE5LTBhNGUtNDc3ZC05YTYxLTk0NDkyN2NlY2I1NQ.jpg"
   },
   {
   "name" : "Felipe",
@@ -87,7 +87,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://pbs.twimg.com/profile_images/625833686987067392/D82sos-X_400x400.jpg"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAj_AAAAJDViYmI0OTcyLTliZmEtNDIwOC04MTk5LTYwMzQ4MTc4MDc5OA.jpg"
   },
   {
   "name" : "Karen",
@@ -177,7 +177,7 @@
   "www" : "",
   "twitter" : "ivapls",
   "github" : "",
-  "picurl" : "https://pbs.twimg.com/profile_images/741248302272897024/s3Um0kH__400x400.jpg"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAeoAAAAJDMwYTdkYzA0LWU1NDktNDc3ZC1iNmJjLTQ5NWJmYTM5YWQxMQ.jpg"
   },
   {
   "name" : "Camilo",
@@ -295,7 +295,7 @@
   "name" : "Gabriel",
   "last" : "Del Canto",
   "group" : "alumni",
-  "aff" : "Kidint",
+  "aff" : "BICE Vida",
   "www" : "",
   "twitter" : "gabodelcanto",
   "github" : "",
@@ -380,7 +380,7 @@
   "www" : "http://www.nic.cl",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_BOY-01-1.png"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAhoAAAAJDc5MDk1YmI0LWEwY2YtNDRhMC1iZWJjLTQ3MzEwMDQ5NTU5NA.jpg"
   },
   {
   "name" : "Hugo",
@@ -410,7 +410,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/media/p/4/000/14d/07b/028a6aa.jpg"
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/14d/07b/028a6aa.jpg"
   },
 {
   "name" : "Mario",
@@ -430,6 +430,16 @@
   "www" : "",
   "twitter" : "",
   "github" : "mleyton",
+  "picurl" : "https://avatars3.githubusercontent.com/u/123413"
+  },
+    {
+  "name" : "Alfredo",
+  "last" : "Cadiz",
+  "group" : "alumni",
+  "aff" : "ADI, Universidad de Chile",
+  "www" : "",
+  "twitter" : "badger_cl",
+  "github" : "",
   "picurl" : "https://avatars3.githubusercontent.com/u/123413"
   },
     {
@@ -462,6 +472,36 @@
   "github" : "",
   "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAVHAAAAJDc5MzNlYWRjLWZkNjYtNGMwNS05NjMwLTgxODJmMDcyNzE2Nw.jpg"
   },
+     {
+  "name" : "Angel",
+  "last" : "Nuñez",
+  "group" : "alumni",
+  "aff" : "CONICYT Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/181/0c2/164f9a9.jpg"
+  },
+   {
+  "name" : "Daniel",
+  "last" : "Romero",
+  "group" : "alumni",
+  "aff" : "NIC Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/0db/357/1559d06.jpg"
+  },
+   {
+  "name" : "Gabriel",
+  "last" : "Hourton",
+  "group" : "alumni",
+  "aff" : "BICE Vida",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAACHAAAAJDg1MmI1ZTJmLTFhYTItNGQwMy05NTc5LTMxN2JiNjEzNzg1YQ.jpg"
+  },  
   {
   "name" : "Pamela",
   "last" : "Carvallo",
@@ -471,6 +511,16 @@
   "twitter" : "funkehlady",
   "github" : "pcarvallo",
   "picurl" : "https://avatars1.githubusercontent.com/u/945564"
+  },
+  {
+  "name" : "Javiera",
+  "last" : "Born",
+  "group" : "alumni",
+  "aff" : "Software Engineer, Greater Boston Area, USA",
+  "www" : "",
+  "twitter" : "booorn",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAPqAAAAJDBiYzQ4ZDI4LWZkNzMtNGE1ZS05NWM0LWJhMmVhNjkyYjdiMg.jpg"
   },
   {
   "name" : "Jacqueline",
