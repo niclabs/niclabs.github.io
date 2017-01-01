@@ -62,8 +62,8 @@
   {
   "name" : "Sebastian",
   "last" : "Blasco",
-  "group" : "pro",
-  "job" : "Research Engineer",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "sebablasko",
   "github" : "sebablasko",
@@ -72,8 +72,8 @@
   {
   "name" : "Boris",
   "last" : "Romero",
-  "group" : "pro",
-  "job" : "Research Engineer",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
@@ -210,6 +210,16 @@
   "picurl" : "https://avatars1.githubusercontent.com/u/6362075?v=3&s=460"
   },
   {
+  "name" : "Eduardo",
+  "last" : "Acha",
+  "group" : "alumni",
+  "aff" : "Synopsys Inc.",
+  "www" : "",
+  "twitter" : "",
+  "github" : "eacha",
+  "picurl" : "https://static.u-cursos.cl/r/usuario/f3/f32b17be7b625fbb6b6cc845fac82444/datos_usuario/av_5575abc7cd6be.jpg"
+  },
+  {
   "name" : "Maite",
   "last" : "Gonzalez",
   "group" : "under",
@@ -248,7 +258,8 @@
   {
   "name" : "Caterina",
   "last" : "Muñoz",
-  "group" : "under",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -402,16 +413,6 @@
   "github" : "",
   "picurl" : "https://pbs.twimg.com/profile_images/412403168480210945/cKKT3_iU_400x400.png"
   },
-  {
-  "name" : "Tomas",
-  "last" : "Barros",
-  "group" : "alumni",
-  "aff" : "IT innovation projects",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/14d/07b/028a6aa.jpg"
-  },
 {
   "name" : "Mario",
   "last" : "Cornejo",
@@ -420,7 +421,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAlHAAAAJDIwODIwNDUzLWZjMjEtNDZjYS1hNmQwLWI1M2QyOTJmZjQ0MA.jpg"
+  "picurl" : "https://pbs.twimg.com/profile_images/656025589640466432/RPnlu1Nj_400x400.jpg"
   },
   {
   "name" : "Mario",
@@ -471,26 +472,6 @@
   "twitter" : "",
   "github" : "",
   "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAVHAAAAJDc5MzNlYWRjLWZkNjYtNGMwNS05NjMwLTgxODJmMDcyNzE2Nw.jpg"
-  },
-     {
-  "name" : "Angel",
-  "last" : "Nuñez",
-  "group" : "alumni",
-  "aff" : "CONICYT Chile",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/181/0c2/164f9a9.jpg"
-  },
-   {
-  "name" : "Daniel",
-  "last" : "Romero",
-  "group" : "alumni",
-  "aff" : "NIC Chile",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/0db/357/1559d06.jpg"
   },
    {
   "name" : "Gabriel",
