@@ -17,7 +17,7 @@
   "www" : "http://www.dcc.uchile.cl/~jbustos",
   "twitter" : "madestro",
   "github" : "madestro",
-  "picurl" : "https://static.u-cursos.cl/r/usuario/7b/7bd04c5ccb84bf959f8ba6dcc6adfe05/datos_usuario/av_4d359c676226d.jpg"
+  "picurl" : "https://www.u-cursos.cl/d/static/r/usuario/7b/7bd04c5ccb84bf959f8ba6dcc6adfe05/datos_usuario/a5797a0ba874f51f60a7ce3dff875f32.jpg"
   },
   {
   "name" : "Jose",
@@ -137,7 +137,7 @@
   "www" : "",
   "twitter" : "pareyesv",
   "github" : "",
-  "picurl" : "http://www.est.uc3m.es/patricioreyes/images/patricio_reyes.jpg"
+  "picurl" : "http://portal.uc3m.es/portal/pls/portal/docs/44390049.JPG"
   },
   {
   "name" : "Tobias",
@@ -167,7 +167,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://static.u-cursos.cl/r/usuario/c4/c412662fe42a3de5d3a219a999a662aa/datos_usuario/a9f129df055b15e58572b2b99bbebf99.jpg"
+  "picurl" : "https://www.u-cursos.cl/d/static/r/usuario/c4/c412662fe42a3de5d3a219a999a662aa/datos_usuario/a9f129df055b15e58572b2b99bbebf99.jpg"
   },
   {
   "name" : "Ivana",
@@ -217,7 +217,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "eacha",
-  "picurl" : "https://static.u-cursos.cl/r/usuario/f3/f32b17be7b625fbb6b6cc845fac82444/datos_usuario/av_5575abc7cd6be.jpg"
+  "picurl" : "https://www.u-cursos.cl/d/static/r/usuario/f3/f32b17be7b625fbb6b6cc845fac82444/datos_usuario/av_5575abc7cd6be.jpg"
   },
   {
   "name" : "Maite",
@@ -244,17 +244,17 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://static.u-cursos.cl/r/usuario/c8/c8856e4d2b9e38775b11f38eb8ae3d97/datos_usuario/d3866a6e683558b63de0e1860675c9e1.jpg"
+  "picurl" : "https://www.u-cursos.cl/d/static/r/usuario/c8/c8856e4d2b9e38775b11f38eb8ae3d97/datos_usuario/d3866a6e683558b63de0e1860675c9e1.jpg"
   },
   {
   "name" : "Caterina",
   "last" : "Muñoz",
   "group" : "alumni",
-  "aff" : "---",
+  "aff" : "INRIA Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "http://niclabs.cl/pics/cate.jpg"
   },
   {
   "name" : "Manuel",
