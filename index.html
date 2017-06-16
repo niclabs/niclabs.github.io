@@ -1,115 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href='https://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css'>
-        <title>NIC Labs</title>
-        <link href="css/style.css" rel="stylesheet">
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+<head>
+   <title>NIC Labs</title>
+   <link href="css/niclabs.css" rel="stylesheet">
+</head>
+<body>
+<center>
+<div id=phi>
+</div>
+</center>
+</body>
+<script src="js/d3.v4.min.js"></script>
+<script src="js/phi.js"></script>
+<script src="js/people.js"></script>
+<script src="js/bib.js"></script>
 
-    </head>
-    <body>
-        <div class="content">
-            <!-- TITULO -->
-            <div class="title">
-                <img src=images/HEADER.png>
-            </div>
-             <!-- MENU -->
-            <div class="menu">
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.html">HOME</a></li>
-                    <li><a href="research.html">RESEARCH</a></li>
-                    <li><a href="people.html">PEOPLE</a></li>
-                </ul>
-            </div>
-                      <!-- CABECERA -->
-            <div class="cabecera-research">
-                <img src="images/research-HEADER1.png">
-            </div>
- 
-            <div class="secciones">
-                <div class="seccion1-index">
-                    <div class="row">
-                            <div id="titulo-proyectos">
-                                <h2 id="nameabout2">PROJECTS</h2>
-                            </div>
-                            <div class="proyects">
-				<div class="dns-home">
-				<a href=https://niclabs.github.io/tchsm>
-				<img src="images/tchsm.png" width=180px>
-				</a>
-				<p id="tchsm">TCHSM: Threshold Cryptography based virtual HSM, 
-binded to PKCS11</p>
-				</div>
-                                <div class="adkintun-home">
-                                 <a href="http://www.adkintunmobile.cl/">
-                                  <img src="images/ADKINTUN-ICONO.png">
-                                 </a>
-                                  <p id="adkintun-tex">Adkintun Mobile: Mobile Internet QoS Infrastructure</p>
-                                </div>
-                                <div class="dns-home">
-                                <a href="http://niclabs.github.io/ratadns/">
-                                <img src="images/DNS-ICONO.png">
-                                </a>
-                                <p id="dns-text">RaTA-DNS: Real Time Analytics for DNS packets</p>
-                                </div>
-                            </div>
-                    </div>
+<script>
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
 
-                    <div class="row2">
-                        <div class="col-md-4">
-                            <h1> </h1>
-                        </div>  
-                    </div>
-                </div>
-                <div class="seccion2">
-                    <div class="row3">
-                        <div class="latest-news">
-                            <h2 id="latest-news-title"> LATEST NEWS </h2>
-                            <a class="twitter-timeline" href="https://twitter.com/niclabscl"
-data-widget-id="428587092331884544" data-chrome="noheader noborders nofooter transparent"
-data-show-replies="false" width="338" height="500">Tweets by @niclabscl</a>
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
 
-<script>!function(d,s,id){var
-js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                            
-                        </div>  
-                    </div>
-                </div>
-		<br><br>
-	    </div>
-            <!-- ABOUT -->
-            <div class="about">
-                <img src="images/research-HEADER1.png">
+  return t;
+}(document, "script", "twitter-wjs"));
 
-                        <h1 id="nameabout">ABOUT</h1>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 
-                <div class="about2">
-                    <div id="textonic">
-                        <p>NIC Chile Research Labs is the Internet Laboratory of Faculty of Physical and Mathematical Sciences of the University of Chile (FCFM), funded by NIC Chile.</p>
-<p> Our main research areas are: Internet protocols (layer 3-4), DNS, Internet QoS, Internet QoE, Internet of Things, vehicular and computer networks. <br>
-                            <br>
-                            We are based in Santiago, Chile, in front of FCFM, Universidad de Chile.</p>
-                    </div>
-                    <div id="logoniclabs">
-                        <img src="images/LOGO-NICLABS-ABOUT.png">
-                    </div>
+bodyW = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+bodyH = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+d3.select('#phi')
+  .attr('width',bodyW)
+  .attr('height',bodyH);
 
-                </div>    
-            </div>
+phi('phi',bodyW,bodyH);
 
-            <div id="footerfinal">
-                <img src="images/FOOTERFINAL.png">
-            </div>
+bib = d3.select('#phidiv1a')
+        .style('overflow-y','auto')
+        .html('<p><span style="font-size:16pt;color:white">Papers</span></p>')
 
+pub('phidiv1a',document.getElementById('phidiv1a').clientWidth);
 
+people = d3.select('#phidiv2a')
+           .style('overflow-y','auto')
+           .append('div')
+           .style('align','center')
+           .style('width',(document.getElementById('phidiv2a').clientWidth) + 'px')
+           .style('align-content','center')
+           .style('margin-top',(document.getElementById('phidiv2a').clientWidth / 25) + 'px')
+           .html('<p><span style="font-size:16pt;color:black">People</span></p>')
 
-        </div>
+people.append('div')
+      .attr('id','researcher')
+people.append('div')
+      .attr('id','pro')
+people.append('div')
+      .attr('id','external')
+people.append('div')
+      .attr('id','grad')
+people.append('div')
+      .attr('id','under')
+people.append('div')
+      .html('<p><span style="font-size:14pt;color:black">Alumni</span></p>')
+people.append('div')
+      .attr('id','alumni')
+      
+fullpeople(document.getElementById('phidiv2a').clientWidth);
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        </div>
-    </body>
+d3.select('#phidiv3a')
+  .append('a')
+    .attr('class','twitter-timeline')
+    .attr('href','https://twitter.com/niclabscl')
+    .attr('data-widget-id','428587092331884544')
+    .attr('data-chrome','noheader noborders nofooter transparent')
+    .attr('data-show-replies','false')
+    .attr('width', document.getElementById('phidiv3a').clientWidth)
+    .attr('height', document.getElementById('phidiv3a').clientWidth)
+    .html('Tweets by @niclabscl')
+
+d3.select('#phidiv4a')
+    .style('display', 'flex')
+  .append('img')
+    .attr('src','images/nic-casa.png')
+    .attr('width', document.getElementById('phidiv4a').clientWidth * .8 + 'px')
+    .attr('height', document.getElementById('phidiv4a').clientWidth * .8 + 'px')
+    .style('margin', 'auto')
+
+d3.select('#phidiv5a')
+    .style('display', 'flex')
+  .append('a')
+    .style('display', 'flex')
+    .style('margin', 'auto')
+  .attr('href','http://www.adkintunmobile.cl')
+  .append('img')
+    .attr('src','images/logoadk.png')
+    .attr('width', document.getElementById('phidiv5a').clientWidth * .60 + 'px')
+    .attr('height', document.getElementById('phidiv5a').clientWidth * .75 + 'px')
+    .style('margin', 'auto')
+
+d3.select('#phidiv6a')
+    .style('display', 'flex')
+  .append('a')
+    .style('display', 'flex')
+    .style('margin', 'auto')
+  .attr('href','http://www.github.com/niclabs')
+  .append('img')
+    .attr('src','images/githubcito.png')
+    .attr('width', document.getElementById('phidiv7a').clientWidth * .8 + 'px')
+    .attr('height', document.getElementById('phidiv7a').clientWidth * .8 + 'px')
+    .style('margin', 'auto')
+
+d3.select('#phidiv7a')
+    .style('display', 'flex')
+  .append('a')
+    .style('display', 'flex')
+    .style('margin', 'auto')
+  .attr('href','http://bitacoras.niclabs.cl')
+  .append('img')
+    .attr('src','images/blog.png')
+    .attr('width', document.getElementById('phidiv6a').clientWidth * .8+ 'px')
+    .attr('height', document.getElementById('phidiv6a').clientWidth * .8+ 'px')
+    .style('margin', 'auto')
+
+</script>
+
 </html>
+
