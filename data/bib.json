@@ -1,5 +1,16 @@
 [
 {
+"key": "article",
+"title": "Urban Mobility Analysis with Mobile Network Data: A Visual Analytics Approach",
+"author": "Senaratne, Hansi and Mueller, Manuel and Behrisch, Michael and Lalanne, Felipe and Bustos-Jiménez, Javier and Schneidewind, Jörn and Keim, Daniel and Schreck, Tobias",
+"journal": "Transactions on Intelligent Transportation Systems",
+"volume": 0,
+"number": 0,
+"year": 2017,
+"link": "#",
+"publisher": "IEEE"
+},
+  {
 "key" : "inproceedings",
 "title" : "VNET: Towards End-to-End Network Cloudification",
 "author" : "El Rachkidi, Elie and Agoulmine, Nazim and Baliosian, Javier and Bustos, Javier",
