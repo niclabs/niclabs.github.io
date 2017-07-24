@@ -2,7 +2,7 @@ function phi(id,width,height)
 {
 var phi = 21.0/13.0;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
-var color = ['#333745','#e63462','#C8E0EE','#2f6480','#064046','#827eb8','#ff796b','white']
+var color = ['#343545','#38A1E4','#C8E0EE','#31647E','#0B3246','#85C3CF','#7FA6B6','white']
 var fib = [21,13,8,5,3,2,1,1];
 var a = 0;
 
