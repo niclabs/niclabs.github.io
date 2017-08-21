@@ -90,14 +90,14 @@
   "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAj_AAAAJDViYmI0OTcyLTliZmEtNDIwOC04MTk5LTYwMzQ4MTc4MDc5OA.jpg"
   },
   {
-  "name" : "Karen",
-  "last" : "Vergara",
+  "name" : "Catalina",
+  "last" : "Alvarez",
   "group" : "pro",
-  "job" : "Communications",
+  "job" : "Research Engineer",
   "www" : "",
-  "twitter" : "karend3nisse",
+  "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAjpAAAAJDY4ODdhYmNlLTdkM2ItNDkyZS1hM2E0LTRkNDFkN2Y4MDVlZg.jpg"
+  "picurl" : "pics/cata.jpg"
   },
   {
   "name" : "Patricia",
@@ -180,7 +180,7 @@
   "www" : "",
   "twitter" : "ivapls",
   "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAeoAAAAJDMwYTdkYzA0LWU1NDktNDc3ZC1iNmJjLTQ5NWJmYTM5YWQxMQ.jpg"
+  "picurl" : "pics/iva.jpg"
   },
   {
   "name" : "Camilo",
@@ -196,9 +196,8 @@
   {
   "name" : "Fernando",
   "last" : "Morales",
-  "group" : "grad",
-  "grad" : "MSc",
-  "job" : "MSc student",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "fernandogmc",
   "github" : "nanocatdemen",
@@ -253,7 +252,17 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://www.u-cursos.cl/d/static/r/usuario/c8/c8856e4d2b9e38775b11f38eb8ae3d97/datos_usuario/d3866a6e683558b63de0e1860675c9e1.jpg"
+  "picurl" : "pics/diego.jpg"
+  },
+  {
+  "name" : "Jeisson",
+  "last" : "Sanchez",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "", 
+  "picurl" : "pics/jeisson.jpg"
   },
   {
   "name" : "Caterina",
@@ -284,6 +293,26 @@
   "twitter" : "",
   "github" : "torress",
   "picurl" : "https://avatars2.githubusercontent.com/u/9119756?v=3&s=460"
+  },
+  {
+  "name" : "Alexandra",
+  "last" : "Ibarra",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/ale.jpg"
+  },
+  {
+  "name" : "Martin",
+  "last" : "Panza",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/martin.jpg"
   },
   {
   "name" : "Tomas",
