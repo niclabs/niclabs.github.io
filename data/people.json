@@ -206,9 +206,8 @@
   {
   "name" : "Francisco",
   "last" : "Montoto",
-  "group" : "grad",
-  "grad" : "MSc",
-  "job" : "MSc student",
+  "group" : "alumni",
+  "aff" : "Google, USA",
   "www" : "",
   "twitter" : "",
   "github" : "fmontoto",
