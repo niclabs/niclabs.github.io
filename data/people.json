@@ -107,7 +107,17 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://niclabs.cl/images/icono-user_GIRL-01-1.png"
+  "picurl" : "pics/paty.jpg"
+  },
+  {
+  "name" : "Meryann",
+  "last" : "Solano",
+  "group" : "pro",
+  "job" : "Administrative Assistant",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/mery.jpg"
   },
   {
   "name" : "Mauricio",
@@ -292,6 +302,16 @@
   "twitter" : "",
   "github" : "torress",
   "picurl" : "https://avatars2.githubusercontent.com/u/9119756?v=3&s=460"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Espinoza",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/felipee.jpg"
   },
   {
   "name" : "Alexandra",
