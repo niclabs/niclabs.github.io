@@ -68,7 +68,7 @@ for (i = len - 1; i >= 0; i--)
 
   if (data[i].key == 'article' || data[i].key == 'incollection')
     {
-    var txt = (data[i].key == 'article')? data[i].journal:data[i].incollection;
+    var txt = (data[i].key == 'article')? data[i].journal:data[i].booktitle;
     txt += (typeof data[i].volume !== 'undefined')? ': '+data[i].volume:'';
     txt += (typeof data[i].number !== 'undefined')? '('+data[i].number+')':'';
     txt += '. '
