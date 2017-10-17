@@ -785,5 +785,50 @@
 "year": 2015,
 "link": "http://ieeexplore.ieee.org/document/7322989/",
 "publisher": "IEEE"
+},
+{
+"key": "inproceedings",
+"title": "A Proposal for a Mobile Internet QoS Forecasting Method Based on Passive Measurements",
+"author": "Madariaga, Diego",
+"booktitle": "III Spring School on Networks",
+"year": 2017,
+"link": "http://ceur-ws.org/Vol-1950/paper6.pdf",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Modelling the Internet as Spatially Constrained Interdependent Networks ",
+"author": "Bachmann, Ivana and Bustos, Javier",
+"booktitle": "III Spring School on Networks",
+"year": 2017,
+"link": "http://ceur-ws.org/Vol-1950/paper5.pdf",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Performance Evaluation of HTTP/2 Window Size in the Internet of Things",
+"author": "Londo&ntilde;o, Diego and Gonz&aacute;lez Maite and C&eacute;spedes Sandra and Bustos, Javier and Montenegro, Gabriel",
+"booktitle": "III Spring School on Networks",
+"year": 2017,
+"link": "http://ceur-ws.org/Vol-1950/paper8.pdf",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Coordination of Autonomous Vehicles at Intersections with V2V (decentralized) communication",
+"author": "Gonz&aacute;lez Maite and Holloway, Benjam&iacute;n and Hevia, Alejandro and C&eacute;spedes, Sandra and Bustos, Javier",
+"booktitle": "III Spring School on Networks",
+"year": 2017,
+"link": "http://ceur-ws.org/Vol-1950/paper10.pdf",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Can we break the Internet?: A Robustness Analysis of the Internet Exchange Points (IXP) Network Graph",
+"author": "Ibarra, Alexandra and Bustos, Javier",
+"booktitle": "III Spring School on Networks",
+"year": 2017,
+"link": "http://ceur-ws.org/Vol-1950/paper12.pdf",
+"publisher": "CEUR-WS"
 }
 ]
