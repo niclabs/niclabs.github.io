@@ -17,7 +17,7 @@
   "www" : "http://www.dcc.uchile.cl/~jbustos",
   "twitter" : "madestro",
   "github" : "madestro",
-  "picurl" : "pics/javier.png"
+  "picurl" : "pics/javier.jpg"
   },
   {
   "name" : "Jose",
@@ -57,7 +57,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "http://i.imgur.com/9npWNEC.jpg"
+  "picurl" : "pics/cote.jpg"
   },
   {
   "name" : "Sebastian",
@@ -387,7 +387,7 @@
   "name" : "Victor",
   "last" : "Ramiro",
   "group" : "alumni",
-  "aff" : "Steery.io, France",
+  "aff" : "EasyMile, France",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -428,7 +428,7 @@
   "name" : "Matias",
   "last" : "Ibañez",
   "group" : "alumni",
-  "aff" : "Adere.so Chile",
+  "aff" : "Principal Financial Group",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -468,7 +468,7 @@
   "name" : "Mario",
   "last" : "Cornejo",
   "group" : "alumni",
-  "aff" : "SNIPS, France",
+  "aff" : "Deezer, France",
   "www" : "",
   "twitter" : "",
   "github" : "",

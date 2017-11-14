@@ -1,21 +1,9 @@
 <!DOCTYPE html>
-<html xmlns:xlink="http://www.w3.org/1999/xlink">
+<html>
 <head>
-   <title>NIC Labs</title>
-   <link href="css/niclabs.css" rel="stylesheet">
-</head>
-<body>
-<center>
-<div id=phi>
-</div>
-</center>
-</body>
-<script src="js/d3.v4.min.js"></script>
-<script src="js/phi.js"></script>
-<script src="js/people.js"></script>
-<script src="js/bib.js"></script>
-
-<script>
+    
+    
+    <script>
 window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
@@ -24,114 +12,414 @@ window.twttr = (function(d, s, id) {
   js.id = id;
   js.src = "https://platform.twitter.com/widgets.js";
   fjs.parentNode.insertBefore(js, fjs);
-
   t._e = [];
   t.ready = function(f) {
     t._e.push(f);
   };
-
   return t;
 }(document, "script", "twitter-wjs"));
-
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-
-bodyW = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-bodyH = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
-d3.select('#phi')
-  .attr('width',bodyW)
-  .attr('height',bodyH);
-
-phi('phi',bodyW,bodyH);
-
-bib = d3.select('#phidiv1a')
-        .style('overflow-y','auto')
-        .html('<p><span style="font-size:16pt;color:white">Papers</span></p>')
-
-pub('phidiv1a',document.getElementById('phidiv1a').clientWidth);
-
-people = d3.select('#phidiv2a')
-           .style('overflow-y','auto')
-           .append('div')
-           .style('align','center')
-           .style('width',(document.getElementById('phidiv2a').clientWidth) + 'px')
-           .style('align-content','center')
-           .style('margin-top',(document.getElementById('phidiv2a').clientWidth / 25) + 'px')
-           .html('<p><span style="font-size:16pt;color:black">People</span></p>')
-
-people.append('div')
-      .attr('id','researcher')
-people.append('div')
-      .attr('id','pro')
-people.append('div')
-      .attr('id','external')
-people.append('div')
-      .attr('id','grad')
-people.append('div')
-      .attr('id','under')
-people.append('div')
-      .style('clear','left')
-      .html('<p><span style="font-size:14pt;color:black">Alumni</span></p>')
-people.append('div')
-      .attr('id','alumni')
-      
-fullpeople(document.getElementById('phidiv2a').clientWidth);
-
-d3.select('#phidiv3a')
-  .append('a')
-    .attr('class','twitter-timeline')
-    .attr('href','https://twitter.com/niclabscl')
-    .attr('data-widget-id','428587092331884544')
-    .attr('data-chrome','noheader noborders nofooter transparent')
-    .attr('data-show-replies','false')
-    .attr('width', document.getElementById('phidiv3a').clientWidth)
-    .attr('height', document.getElementById('phidiv3a').clientWidth)
-    .html('Tweets by @niclabscl')
-
-d3.select('#phidiv4a')
-    .style('display', 'flex')
-  .append('img')
-    .attr('src','images/nic-casa.png')
-    .attr('width', document.getElementById('phidiv4a').clientWidth * .8 + 'px')
-    .attr('height', document.getElementById('phidiv4a').clientWidth * .8 + 'px')
-    .style('margin', 'auto')
-
-d3.select('#phidiv5a')
-    .style('display', 'flex')
-  .append('a')
-    .style('display', 'flex')
-    .style('margin', 'auto')
-  .attr('href','http://www.adkintunmobile.cl')
-  .append('img')
-    .attr('src','images/logoadk.png')
-    .attr('width', document.getElementById('phidiv5a').clientWidth * .60 + 'px')
-    .attr('height', document.getElementById('phidiv5a').clientWidth * .75 + 'px')
-    .style('margin', 'auto')
-
-d3.select('#phidiv6a')
-    .style('display', 'flex')
-  .append('a')
-    .style('display', 'flex')
-    .style('margin', 'auto')
-  .attr('href','http://www.github.com/niclabs')
-  .append('img')
-    .attr('src','images/githubcito.png')
-    .attr('width', document.getElementById('phidiv7a').clientWidth * .8 + 'px')
-    .attr('height', document.getElementById('phidiv7a').clientWidth * .8 + 'px')
-    .style('margin', 'auto')
-
-d3.select('#phidiv7a')
-    .style('display', 'flex')
-  .append('a')
-    .style('display', 'flex')
-    .style('margin', 'auto')
-  .attr('href','http://bitacoras.niclabs.cl')
-  .append('img')
-    .attr('src','images/blog.png')
-    .attr('width', document.getElementById('phidiv6a').clientWidth * .8+ 'px')
-    .attr('height', document.getElementById('phidiv6a').clientWidth * .8+ 'px')
-    .style('margin', 'auto')
-
 </script>
+<meta charset="UTF-8">
+<title>NIC Labs</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Manor Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
 
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+
+<!-- bootstrap-css -->
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/animate.css" rel="stylesheet" type="text/css" media="all" />
+<!--// bootstrap-css -->
+
+<!-- fontawesome-css -->
+	<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+<!--// fontawesome-css -->
+
+<!-- style-css -->
+	<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<!--// style-css -->
+
+</head>
+
+<body>
+
+<!-- banner starts-->
+<section id="banner">
+	<div class="banner_img">
+		<div class="slider_content">
+        	<img src="images/logo.png" class="slider_logo">
+        	<h1 class="slider_title">Bienvenido a NIC labs</h1>
+        </div>
+	</div>
+</section>
+<!-- banner ends-->
+
+<!-- down arrow starts -->
+<section id="down_arrow">
+	<a href="#about" class="button-down">
+		<i class="fa fa-chevron-down"></i>
+	</a>
+</section>
+<!-- down arrow Ends -->
+
+<!-- about starts -->
+<section id="about">
+	<div class="container">
+		<div class="col-md-6 col-sm-12">
+			<br><br><br><br><div class="about_img">
+				<img src="images/about.jpg">
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="about_content">
+				<div class="abt_title">
+					<h1>Acerca de NIC <span>Labs</span></h1>
+				</div>
+				<p>  Laboratorio de investigación sobre Internet Protocols, Communication Networks, and  Complex Networks de NIC Chile, FCFM, Universidad de Chile
+                </p>
+                <p>Tel&eacute;fono: +56 2 29407787<br>
+                Email: info@niclabs.cl</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4890.435119427159!2d-70.66405734216886!3d-33.45688115291535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c50493cc4ad7%3A0x37c53d5850d8b14b!2sBlanco+Encalada+1975%2C+Santiago%2C+Regi%C3%B3n+Metropolitana!5e0!3m2!1sen!2scl!4v1510241528182" width="400" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+			</div>
+		</div>
+	</div>
+</section>
+<!-- about Ends -->
+<div class="clearfix"></div>
+
+<!-- people Starts -->
+<section id="team">
+	<div class="container">
+		<div class="main_title">
+			<h1>Personas</h1>
+			<p class="sub_title"></p>
+		</div>
+		<div class="team_content">
+			
+			<div class="col-md-4 col-sm-12">
+				<div class="team">
+					<div class="team_img">
+						<img src="pics/javier.jpg">
+					</div>
+					<div class="overlay">
+						<a href="http://madestro.github.io/" target="_blank">
+							<p>Javier Bustos-Jimenez</p>
+  							<p>DCC, Universidad de Chile</p>
+  						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-12">
+				<div class="team">
+					<div class="team_img">
+						<img src="pics/sandra.png">
+					</div>
+					<div class="overlay">
+						<a href="http://www.cec.uchile.cl/~scespedes" target="_blank">
+							<p>Sandra Cespedes</p>
+  							<p>DIE, Universidad de Chile</p>
+  						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-12">
+				<div class="team">
+					<div class="team_img">
+						<img src="pics/hevia.png">
+					</div>
+					<div class="overlay">
+						<a href="http://www.dcc.uchile.cl/~ahevia" target="_blank">
+							<p>Alejandro Hevia</p>
+  							<p>DCC, Universidad de Chile</p>
+  						</a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		
+		<div class="clearfix"></div>
+		<div class="view_all">
+			<a href="personas.html" class="view_btn" target="_blank">View All</a>
+		</div>
+
+	</div>
+</section>
+<!-- people Ends -->
+<div class="clearfix"></div>
+
+
+<!-- portfolio starts -->
+<section id="portfolio">
+	<div class="container">
+		<div class="main_title">
+			<h1>Proyectos</h1>
+			<p class="sub_title"></p>
+		</div>
+		<div class="portfolio_content">
+			
+			<div class="col-md-3 col-sm-12">
+				<div class="port">
+					<a href="http://adkintunmobile.cl/">
+    					<div class="port_img">
+    						<img src="images/portfolio-1.jpg">
+    					</div>
+    					<div class="port_info">
+    						<p>Adkintun Mobile</p>
+    					</div>
+    				</a>
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-sm-12">
+				<div class="port">
+					<a href="http://winetgroup.die.cl/retract/wordpress/">
+    					<div class="port_img">
+    						<img src="images/portfolio-2.jpg">
+    					</div>
+    					<div class="port_info">
+    						<p>EraNet</p>
+    					</div>
+    				</a>
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-sm-12">
+				<div class="port">
+    				<a href="https://github.com/niclabs/docker/tree/master/tchsm">
+        				<div class="port_img">
+        					<img src="images/portfolio-3.jpg">
+        			    </div>
+        			    <div class="port_info">
+        					<p>HSM distribuído</p>
+        				</div>
+    				</a>
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-sm-12">
+				<div class="port">
+					<a href="http://viz.niclabs.cl/ir/">
+					    <div class="port_img">
+						    <img src="images/portfolio-4.jpg">
+					    </div>
+					    <div class="port_info">
+						    <p>Observatorio de Internet</p>
+					    </div>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- portfolio Ends -->
+<div class="clearfix"></div>
+
+
+<!-- paper Starts -->
+<section id="paper">
+	<div class="container">
+		<div class="main_title">
+			<h1>&Uacute;ltimas publicaciones</h1>
+		</div>
+		<div class="papers_content animate-box">
+			
+			<div class="col-md-3 col-sm-12">
+				<div class="papers all 2017" data-cat="2017">
+					<div class="paper_img">
+						<img src="images/pdf.png">
+					</div>
+					<div class="paper_info">
+						<p class="paper_title">[c54] </p>
+						<a href="http://ceur-ws.org/Vol-1950/paper12.pdf">"Can we break the Internet?: A Robustness Analysis of the Internet Exchange Points (IXP) Network Graph".</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-12">
+				<div class="papers all 2016" data-cat="2016">
+					<div class="paper_img">
+						<img src="images/pdf.png">
+					</div>
+					<div class="paper_info">
+						<p class="paper_title">[c53] </p>
+						<a href="http://ceur-ws.org/Vol-1950/paper10.pdf">"Coordination of Autonomous Vehicles at Intersections with V2V (decentralized) communication"</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-12">
+				<div class="papers all 2015" data-cat="2015">
+					<div class="paper_img">
+						<img src="images/pdf.png">
+					</div>
+					<div class="paper_info">
+						<p class="paper_title">[c52] </p>
+						<a href="http://ceur-ws.org/Vol-1950/paper8.pdf">"Performance Evaluation of HTTP/2 Window Size in the Internet of Things". </a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-12">
+				<div class="papers all 2014" data-cat="2014">
+					<div class="paper_img">
+						<img src="images/pdf.png">
+					</div>
+					<div class="paper_info">
+						<p class="paper_title">[c51] </p>
+						<a href="http://ceur-ws.org/Vol-1950/paper5.pdf">"Modelling the Internet as Spatially Constrained Interdependent Networks ". </a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div class="clearfix"></div>
+		<div class="view_all">
+			<a href="publicaciones.html" class="view_btn" target="_blank">Ver todas</a>
+		</div>
+	</div>
+</section>
+<!-- paper Ends -->
+<div class="clearfix"></div>
+
+
+<!-- twitter Starts -->
+<center><section id="twitter">
+	<div class="container">
+		<div class="main_title">
+			<h1>Twitter Feed</h1>
+		</div>
+		<div class="twitter_content">
+			  <a href=https://twitter.com/niclabscl
+                class='twitter-timeline'
+                data-widget-id=428587092331884544
+                data-chrome='noheader noborders nofooter transparent'
+                data-show-replies=false
+                data-width=50%
+                >Tweets by @niclabscl</a>
+
+		</div>
+	</div>
+</section></center>
+<!-- twitetr Ends -->
+<div class="clearfix"></div>
+
+<!-- footer Starts -->
+<footer>
+	<div class="container">
+	    <p>© Copyright NIC Labs. Todos los derechos reservados.</p>
+	</div>
+	<div class="scrollup"></div>
+</footer>
+
+<!-- footer Ends -->
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="js/jquery.easing.1.3.js"></script>
+	
+
+<script type="text/javascript">
+	$(function () {
+		
+		var filterList = {		
+			init: function () {			
+				// MixItUp plugin
+				// http://mixitup.io
+				$('.papers_content').mixItUp({
+  				selectors: {
+    			  target: '.papers',
+    			  filter: '.filter'	
+    		  },
+    		  load: {
+      		  filter: '.all'  
+      		}     
+				});								
+			
+			}
+
+		};
+		
+		// Run the show!
+		filterList.init();
+
+
+
+		// $('.filter').click(function(){
+		// 		var fss=$(this).data('filter');
+		// 		alert(fss);
+		// });
+    
+		
+		
+	});	
+	</script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $(".button-down").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 2000, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.scrollup').click(function () {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+});
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
+<script type="text/javascript" src="/js/jquery.mixitup.min.js"></script>
+</body>
 </html>
-

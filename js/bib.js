@@ -45,45 +45,41 @@ for (i = len - 1; i >= 0; i--)
   if (data[i].year < year)
     {
     year = data[i].year;
-    div.append('div')
-       .style('width', width + "px")
-       .style('text-align','center')
-       .html('<tt>'+year+'</tt>')
+    var div2 = div.append('div')
+       .attr('class','col-sm-12')
+       .append('h2')
+         .attr('class','sub_title')
+
+    div2.append('i')
+       .attr('class','fa fa-file-text-o')
+       .attr('aria-hidden','true')
+
+    div2.html(year)
     }
    
   var paper = div.append('div')
-     .style('width', 0.95 * width + "px")
-     .style('text-align','left')
-     .style('font', '10pt')
-     .html('<p>')
+     .attr('class','year_detail')
 
-  paper.append('tt')
-       .html('<span style="color: white;">[' + data[i].li + ']</span> ')
-       .append('a')
+  paper.append('a')
        .attr('href',data[i].link)
        .html('"' + data[i].title +'"')
 
-  paper.append('tt')
-       .html(". " + data[i].author + ". ")
+  var txt = data[i].author + ". <tt>In ";
 
   if (data[i].key == 'article' || data[i].key == 'incollection')
     {
-    var txt = (data[i].key == 'article')? data[i].journal:data[i].booktitle;
+    txt += (data[i].key == 'article')? data[i].journal:data[i].booktitle;
     txt += (typeof data[i].volume !== 'undefined')? ': '+data[i].volume:'';
     txt += (typeof data[i].number !== 'undefined')? '('+data[i].number+')':'';
     txt += '. '
-    paper.append('tt')
-       .html('In ' + txt)
     }	
   else if (data[i].key == 'inproceedings')
     {
-    paper.append('tt')
-       .html('Proceedings of '+data[i].booktitle+'. ')
+    txt += ('Proceedings of '+data[i].booktitle+'. ')
     }
-  paper.append('tt')
-       .html(data[i].publisher+ '. ')
-  var txt = (typeof data[i].pages !== 'undefined')? 'Pages '+data[i].pages+'.</p>':'</p>';
-  paper.append('tt').html(txt)
+    txt +=(data[i].publisher+ '. ')
+    txt += (typeof data[i].pages !== 'undefined')? 'Pages '+data[i].pages+'.':'';
+  paper.append('p').html(txt)
   }
 })
 }
