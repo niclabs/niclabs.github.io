@@ -67,13 +67,13 @@
   "www" : "",
   "twitter" : "sebablasko",
   "github" : "sebablasko",
-  "picurl" : "https://lh3.googleusercontent.com/-90RpVa-NZKA/AAAAAAAAAAI/AAAAAAAAAFI/iqwXmoB7tBA/s180-c-k-no/photo.jpg"
+  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAzTAAAAJDdkZmY5YjIyLTJlYzYtNDEwZi04MThmLTM1OTgyNWJmZTY2NQ.jpg"
   },
   {
   "name" : "Boris",
   "last" : "Romero",
   "group" : "alumni",
-  "aff" : "---",
+  "aff" : "Calce.org
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
@@ -211,7 +211,7 @@
   "www" : "",
   "twitter" : "fernandogmc",
   "github" : "nanocatdemen",
-  "picurl" : "https://lh3.googleusercontent.com/-F65A8oqpSAY/AAAAAAAAAAI/AAAAAAAAAAw/GFudWv2WEbA/s180-c-k-no/photo.jpg"
+  "picurl" : "pics/fernando.jpg"
   },
   {
   "name" : "Francisco",
@@ -432,7 +432,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAXdAAAAJDIyZmEwMTI3LWMzOTItNDVkNS1iMWRkLTFhODRiZDM5MzFmMw.jpg"
+  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAzvAAAAJDk0MzdiOWYxLWUxZTYtNGM1Ni05Njg5LTU5NzU3ODc2OWQwYQ.jpg"
   },
   {
   "name" : "Gonzalo",
@@ -472,7 +472,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://pbs.twimg.com/profile_images/656025589640466432/RPnlu1Nj_400x400.jpg"
+  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAunAAAAJDRiYmRlMGFmLWNhMWYtNDg2MC04MmQwLWNhOTk4OWZmYTBhZg.jpg"
   },
   {
   "name" : "Mario",
@@ -548,7 +548,7 @@
   "name" : "Javiera",
   "last" : "Born",
   "group" : "alumni",
-  "aff" : "Software Engineer, USA",
+  "aff" : "NextMark, Inc, USA",
   "www" : "",
   "twitter" : "booorn",
   "github" : "",
