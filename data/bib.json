@@ -1,13 +1,24 @@
 [
 {
+"key": "incollection",
+"title": "Improving the Chilean Internet Robustness: Increase the Interdependencies or Change the Shape of the Country?",
+"author": "Bachmann, Ivana and Bustos-Jimenez, Javier",
+"booktitle": "Complex Networks and Their Applications VI, COMPLEX NETWORKS 2016 2017. Studies in Computational Intelligence series.",
+"year": 2017,
+"volume": 689,
+"pages": "646--657",
+"publisher": "Springer"
+}
+{
 "key": "article",
 "title": "Urban Mobility Analysis with Mobile Network Data: A Visual Analytics Approach",
 "author": "Senaratne, Hansi and Mueller, Manuel and Behrisch, Michael and Lalanne, Felipe and Bustos-Jiménez, Javier and Schneidewind, Jörn and Keim, Daniel and Schreck, Tobias",
 "journal": "Transactions on Intelligent Transportation Systems",
-"volume": 0,
-"number": 0,
+"volume": "PP",
+"number": 99,
 "year": 2017,
-"link": "#",
+"pages": "1--10",
+"link": "http://ieeexplore.ieee.org/document/8016605",
 "publisher": "IEEE"
 },
   {
