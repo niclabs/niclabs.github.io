@@ -67,7 +67,7 @@ for (i = len - 1; i >= 0; i--)
        .attr('href',data[i].link)
        .html('"' + data[i].title +'"')
 
-  var txt = data[i].author + ". <tt>In ";
+  var txt = data[i].author + ". In ";
 
   if (data[i].key == 'article' || data[i].key == 'incollection')
     {
