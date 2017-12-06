@@ -60,6 +60,9 @@ for (i = len - 1; i >= 0; i--)
   var paper = div.append('div')
      .attr('class','year_detail')
 
+  paper.append('tt')
+       .html('[' + data[i].li + '] ')
+
   paper.append('a')
        .attr('href',data[i].link)
        .html('"' + data[i].title +'"')
