@@ -844,5 +844,14 @@
 "year": 2017,
 "link": "http://ceur-ws.org/Vol-1950/paper12.pdf",
 "publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Building a threshold cryptographic distributed HSM with docker containers",
+"author": "Munoz, Caterina and Montoto, Francisco and Cifuentes, Francisco and Bustos-Jimenez, Javier",
+"booktitle": "Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)",
+"year": 2017,
+"link": "http://ieeexplore.ieee.org/document/8229747/",
+"publisher": "IEEE Xplore"
 }
 ]
