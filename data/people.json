@@ -67,7 +67,7 @@
   "www" : "",
   "twitter" : "sebablasko",
   "github" : "sebablasko",
-  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAzTAAAAJDdkZmY5YjIyLTJlYzYtNDEwZi04MThmLTM1OTgyNWJmZTY2NQ.jpg"
+  "picurl" : "https://media.licdn.com/dms/image/C4D03AQHHos4j4gb0pg/profile-displayphoto-shrink_800_800/0?e=1525194000&v=alpha&t=Z0y_1B-euIUSlrq9RFe97o80eeN15ejpXxlQgcxS5wU"
   },
   {
   "name" : "Boris",
@@ -82,8 +82,8 @@
   {
   "name" : "Felipe",
   "last" : "Quintanilla",
-  "group" : "pro",
-  "job" : "Research Engineer",
+  "group" : "alumni",
+  "aff" : "U-Campus, Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -92,8 +92,8 @@
   {
   "name" : "Catalina",
   "last" : "Alvarez",
-  "group" : "pro",
-  "job" : "Research Engineer",
+  "group" : "alumni",
+  "aff" : "STI, Universidad de Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -162,9 +162,9 @@
   {
   "name" : "Diego",
   "last" : "Londoño",
-  "group" : "grad",
+  "group" : "alumni",
   "grad" : "MSc",
-  "job" : "MSc student",
+  "aff" : "---",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -195,9 +195,9 @@
   {
   "name" : "Camilo",
   "last" : "Gomez",
-  "group" : "grad",
+  "group" : "alumni",
   "grad" : "MSc",
-  "job" : "MSc student",
+  "aff" : "CLCERT",
   "www" : "",
   "twitter" : "milogomez_",
   "github" : "CamiloG",
@@ -277,7 +277,7 @@
   "name" : "Caterina",
   "last" : "Muñoz",
   "group" : "alumni",
-  "aff" : "INRIA Chile",
+  "aff" : "Amazon, US",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -296,18 +296,38 @@
   {
   "name" : "Salomon",
   "last" : "Torres",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "grad",
+  "job" : "MSc student",
   "www" : "",
   "twitter" : "",
   "github" : "torress",
   "picurl" : "https://avatars2.githubusercontent.com/u/9119756?v=3&s=460"
   },
   {
-  "name" : "Felipe",
-  "last" : "Espinoza",
+  "name" : "Alonso",
+  "last" : "Reyes",
   "group" : "under",
   "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://avatars3.githubusercontent.com/u/26608684?s=460&v=4"
+  },
+  {
+  "name" : "Gabriela",
+  "last" : "Mendoza",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://yt3.ggpht.com/-T5--zV2z2mw/AAAAAAAAAAI/AAAAAAAAAAA/0tfl7rHsE5Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Espinoza",
+  "group" : "grad",
+  "job" : "MSc student",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -336,8 +356,8 @@
   {
   "name" : "Tomas",
   "last" : "Wolf",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "",
   "github" : "twolfvb",
@@ -347,8 +367,8 @@
   "name" : "Alvaro",
   "last" : "Graves",
   "group" : "alumni",
-  "aff" : "Apple Inc. USA.",
-  "www" : "http://www.scalefreelab.com",
+  "aff" : "Apple, USA.",
+  "www" : "",
   "twitter" : "alvarograves",
   "github" : "alangrafu",
   "picurl" : "https://avatars0.githubusercontent.com/u/259102?v=3&s=460"
@@ -472,7 +492,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/media/AAEAAQAAAAAAAAunAAAAJDRiYmRlMGFmLWNhMWYtNDg2MC04MmQwLWNhOTk4OWZmYTBhZg.jpg"
+  "picurl" : "https://pbs.twimg.com/profile_images/937573065294254080/ZCn1PsMm_400x400.jpg"
   },
   {
   "name" : "Mario",
