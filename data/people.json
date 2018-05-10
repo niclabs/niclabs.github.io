@@ -314,13 +314,23 @@
   "picurl" : "pics/alonso.jpg"
   },
   {
+  "name" : "Kelly",
+  "last" : "Wagemann",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "kelly97wagemann",
+  "picurl" : "pics/kelly.jpg"
+  },
+  {
   "name" : "Gabriela",
   "last" : "Mendoza",
   "group" : "under",
   "job" : "Undergrad student",
   "www" : "",
   "twitter" : "",
-  "github" : "",
+  "github" : "gabrielaelisa",
   "picurl" : "pics/gaby.jpg"
   },
   {
