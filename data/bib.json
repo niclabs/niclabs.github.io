@@ -15,12 +15,21 @@
 "title": "Urban Mobility Analysis with Mobile Network Data: A Visual Analytics Approach",
 "author": "Senaratne, Hansi and Mueller, Manuel and Behrisch, Michael and Lalanne, Felipe and Bustos-Jiménez, Javier and Schneidewind, Jörn and Keim, Daniel and Schreck, Tobias",
 "journal": "Transactions on Intelligent Transportation Systems",
-"volume": "PP",
-"number": 99,
-"year": 2017,
-"pages": "1--10",
+"volume": "19",
+"number": 5,
+"year": 2018,
+"pages": "1537--1546",
 "link": "http://ieeexplore.ieee.org/document/8016605",
 "publisher": "IEEE"
+},
+{
+"key" : "inproceedings",
+"title" : "QoS Evaluation of the Future High Efficiency IEEE 802.11ax WLAN Standard",
+"author" : "Sanchez, Jeisson, Cespedes, Sandra  and Bustos-Jimenez, Javier",
+"booktitle" : "11th IEEE Colombian Conference on Communications and Computing (COLCOM)",
+"year" : 2018,
+"link" : "http://ieee-colcom.org",
+"publisher" : "IEEE"
 },
   {
 "key" : "inproceedings",
