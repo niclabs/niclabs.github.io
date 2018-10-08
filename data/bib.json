@@ -23,6 +23,19 @@
 "publisher": "IEEE"
 },
 {
+"key": "article",
+"title": "About the relevance of waviness, agglomeration, and strain on the electrical behavior of polymer composites filled with carbon nanotubes evaluated by a Monte-Carlo simulation ",
+"author": "Roman, Sebastian and Lund, Fernando and Bustos, Javier and Palza, Humberto",
+"journal": "Materials Research Express",
+"volume": "5",
+"number": 1,
+"year": 2018,
+"pages": "15044",
+"link": "http://iopscience.iop.org/article/10.1088/2053-1591/aaa531/meta",
+"publisher": "IOP Science"
+}
+
+{
 "key" : "inproceedings",
 "title" : "QoS Evaluation of the Future High Efficiency IEEE 802.11ax WLAN Standard",
 "author" : "Sanchez, Jeisson and Cespedes, Sandra and Bustos-Jimenez, Javier",
