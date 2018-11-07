@@ -12,6 +12,18 @@
 },
 {
 "key": "article",
+"title": "Measuring and Improving Network Robustness: A Chilean Case Study",
+"author": "Morales, Fernando and Paiva, Marcia and Bustos-Jiménez, Javier",
+"journal": "IEEE Communications Letters",
+"volume": "0",
+"number": 0,
+"year": 2018,
+"pages": "1--13",
+"link": "https://ieeexplore.ieee.org/document/8523672/",
+"publisher": "IEEE"
+},
+{
+"key": "article",
 "title": "Urban Mobility Analysis with Mobile Network Data: A Visual Analytics Approach",
 "author": "Senaratne, Hansi and Mueller, Manuel and Behrisch, Michael and Lalanne, Felipe and Bustos-Jiménez, Javier and Schneidewind, Jörn and Keim, Daniel and Schreck, Tobias",
 "journal": "Transactions on Intelligent Transportation Systems",
@@ -41,6 +53,15 @@
 "booktitle" : "11th IEEE Colombian Conference on Communications and Computing (COLCOM)",
 "year" : 2018,
 "link" : "http://ieee-colcom.org",
+"publisher" : "IEEE"
+},
+{
+"key" : "inproceedings",
+"title" : "I'm Only Unhappy when it Rains: Forecasting Mobile QoS with Weather Conditions",
+"author" : "Madariaga, Diego and Panza, Martín and Bustos-Jiménez, Javier",
+"booktitle" : "Network Traffic Measurement and Analysis Conference (TMA)",
+"year" : 2018,
+"link" : "https://ieeexplore.ieee.org/document/8506509",
 "publisher" : "IEEE"
 },
   {
@@ -252,6 +273,14 @@
 "year": 2013,
 "link": "http://ieeexplore.ieee.org/document/6550599/",
 "publisher": "IEEE"
+},
+{
+"key": "report",
+"title": "Estudio y Recomendaciones sobre la Resiliencia de la Infraestructura del Internet Chileno",
+"author": "NIC Labs",
+"year": 2018,
+"publisher": "CORFO",
+"link": ""
 },
 {
 "key": "report",
@@ -874,5 +903,64 @@
 "year": 2017,
 "link": "http://ieeexplore.ieee.org/document/8229747/",
 "publisher": "IEEE Xplore"
+},
+{
+"key": "inproceedings",
+"title": "Topological and Geographical Analysis on Routing and Server Selection of Anycast Clouds",
+"author": "Espinoza, Felipe",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "PePa Ping: Android Tool to Take and Predict Periodic Passive Ping Measurements",
+"author": "Madariaga, Diego and Mendoza, Gabriela",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Proposal for an Intelligent Distribution Model of DNS Queries According to Time Zones",
+"author": "Sanchez, Jeisson and Céspedes, Sandra",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},{
+"key": "inproceedings",
+"title": "Modelling the Interactions Between the Internet Backbone and the BGP Network",
+"author": "Bachmann, Ivana and Espinoza, Felipe",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},{
+"key": "inproceedings",
+"title": "A Proposal for the Study, Analysis and Visualization of BGP Routes",
+"author": "Ibarra, Alexandra",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},{
+"key": "inproceedings",
+"title": "Proposal for Architecture and Simulated Implementation of an Early Warning System for Cyclists based on an Algorithm of Right Turn Predictions of Vehicles",
+"author": "Torres, Salomón and Céspedes, Sandra",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
+},{
+"key": "inproceedings",
+"title": "Detecting Abnormal DNS Events and Attacks in Real-Time",
+"author": "Panza, Martín",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
 }
 ]
