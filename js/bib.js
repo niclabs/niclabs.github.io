@@ -37,6 +37,16 @@ for (a in data)
   }
 
 var year = data[len-1].year+1;
+data.sort(function(a,b) {
+  if (a.year == b.year) {
+    if (a.key == b.key) {
+      return parseInt(a.li.substring(1),10) < parseInt(b.li.substring(1),10)? -1 : 1;
+    }
+  else return (a.key < b.key)? 1 : -1;
+  }
+  else return (a.year < b.year)? -1 : 1;
+});
+
 var div = d3.select('#'+id)
             .style('align-content','center')
 
