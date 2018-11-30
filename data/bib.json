@@ -69,6 +69,15 @@
 },
 {
 "key" : "inproceedings",
+"title" : "DNS Traffic Forecasting Using Deep Neural Networks",
+"author" : "Madariaga, Diego and Panza, Martín and Bustos-Jiménez, Javier",
+"booktitle" : "International Conference on Machine Learning for Networking (MLN'2018)",
+"year" : 2018,
+"link" : "http://www.adda-association.org/mln",
+"publisher" : "Springer LNCS"
+},
+{
+"key" : "inproceedings",
 "title" : "I'm Only Unhappy when it Rains: Forecasting Mobile QoS with Weather Conditions",
 "author" : "Madariaga, Diego and Panza, Martín and Bustos-Jiménez, Javier",
 "booktitle" : "Network Traffic Measurement and Analysis Conference (TMA)",
