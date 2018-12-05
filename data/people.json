@@ -260,7 +260,7 @@
   "job" : "MSc student",
   "www" : "",
   "twitter" : "",
-  "github" : "",
+  "github" : "dmadariaga",
   "picurl" : "pics/diego.jpg"
   },
   {
@@ -270,7 +270,7 @@
   "job" : "MSc student",
   "www" : "",
   "twitter" : "",
-  "github" : "", 
+  "github" : "JsonSM", 
   "picurl" : "pics/jeisson.jpg"
   },
   {
@@ -334,13 +334,23 @@
   "picurl" : "pics/gaby.jpg"
   },
   {
+  "name" : "Daniela",
+  "last" : "Ruz",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "druzmieres",
+  "picurl" : "pics/daniruz.jpg"
+  },
+  {
   "name" : "Felipe",
   "last" : "Espinoza",
   "group" : "grad",
   "job" : "MSc student",
   "www" : "",
   "twitter" : "",
-  "github" : "",
+  "github" : "fdns",
   "picurl" : "pics/felipee.jpg"
   },
   {
@@ -350,7 +360,7 @@
   "job" : "Undergrad student",
   "www" : "",
   "twitter" : "",
-  "github" : "",
+  "github" : "Syrah0",
   "picurl" : "pics/ale.jpg"
   },
   {
