@@ -56,7 +56,7 @@
   "job" : "Multimedia Designer",
   "www" : "",
   "twitter" : "",
-  "github" : "",
+  "github" : "mj282",
   "picurl" : "pics/cote.jpg"
   },
   {
@@ -332,6 +332,16 @@
   "twitter" : "",
   "github" : "gabrielaelisa",
   "picurl" : "pics/gaby.jpg"
+  },
+  {
+  "name" : "Eduardo",
+  "last" : "Riveros",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "adderou",
+  "picurl" : "pics/edo.jpg"
   },
   {
   "name" : "Daniela",
