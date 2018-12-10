@@ -334,6 +334,16 @@
   "picurl" : "pics/gaby.jpg"
   },
   {
+  "name" : "Matilde",
+  "last" : "Rivas",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "matilderivas",
+  "picurl" : "pics/matilde.jpg"
+  },
+  {
   "name" : "Francisco",
   "last" : "Sanhueza",
   "group" : "under",
