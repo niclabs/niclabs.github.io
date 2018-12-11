@@ -29,16 +29,18 @@ d3.json("data/people.json", function(error, data) {
                   .attr('class','team') 
 
     div.append('div')
-         .attr('class','team_img col-md-4 col-xs-12')
+         .attr('class','team_img col-md-3 col-xs-12')
          .append('img')
            .attr('src',function f(d) { return d.picurl; })
            .style('width', (w < 768)? (w - 68) : (w / 5) + 'px')
            .style('height', (w < 768)? (w - 68) : (w / 5) + 'px')
            .style('filter', 'gray')
            .style('-webkit-filter', 'grayscale(1)')
-
     div.append('div')
          .attr('class','overlay')
+         .style('width', (w < 768)? (w - 68) : (w / 5) + 'px')
+         .style('height', (w < 768)? (w - 68) : (w / 5) + 'px')
+	 .style('left', (w < 768)?  0 : 30 + 'px')
          .append("a")
            .attr("href",function f(d) {
              if (d.www != "") return d.www; 
