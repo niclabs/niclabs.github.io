@@ -257,7 +257,7 @@
   "name" : "Diego",
   "last" : "Madariaga",
   "group" : "grad",
-  "job" : "MSc student",
+  "job" : "PhD student",
   "www" : "",
   "twitter" : "",
   "github" : "dmadariaga",
@@ -306,12 +306,42 @@
   {
   "name" : "Alonso",
   "last" : "Reyes",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/alonso.jpg"
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Valdés",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "valeriavaldes",
+  "picurl" : "pics/vale.jpg"
+  },
+  {
+  "name" : "Sebastián",
+  "last" : "Cifuentes",
   "group" : "under",
   "job" : "Undergrad student",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "pics/alonso.jpg"
+  "picurl" : "pics/seba.jpg"
+  },
+  {
+  "name" : "Javiera",
+  "last" : "Bermúdez",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "Javi801",
+  "picurl" : "pics/javi.jpg"
   },
   {
   "name" : "Kelly",
@@ -366,8 +396,8 @@
   {
   "name" : "Daniela",
   "last" : "Ruz",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "alumni",
+  "aff" : "adere.so",
   "www" : "",
   "twitter" : "",
   "github" : "druzmieres",
@@ -386,8 +416,8 @@
   {
   "name" : "Alexandra",
   "last" : "Ibarra",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "alumni",
+  "aff" : "---",
   "www" : "",
   "twitter" : "",
   "github" : "Syrah0",
@@ -407,7 +437,7 @@
   "name" : "Tomas",
   "last" : "Wolf",
   "group" : "alumni",
-  "aff" : "---",
+  "aff" : "Synopsis Inc. Chile",
   "www" : "",
   "twitter" : "",
   "github" : "twolfvb",
@@ -441,7 +471,7 @@
   "www" : "http://www.inria.cl",
   "twitter" : "pipex",
   "github" : "pipex",
-  "picurl" : "https://avatars0.githubusercontent.com/u/1822826?v=3&s=460"
+  "picurl" : "pics/felipel.jpg"
   },
   {
   "name" : "Giselle",
