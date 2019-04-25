@@ -24,6 +24,18 @@
 },
 {
 "key": "article",
+"title": "Review and Evaluation of MAC Protocols for Satellite IoT Systems Using Nanosatellites",
+"author": "Ferrer, Tomás and Céspedes, Sandra and Becerra, Alex",
+"journal": "Sensors",
+"volume": "19",
+"number": 8,
+"year": 2019,
+"pages": "[Online]",
+"link": "http://www.mdpi.com/1424-8220/19/8/1947",
+"publisher": "MDPI"
+},
+{
+"key": "article",
 "title": "Group Cycling Meets Technology: A Cooperative Cycling Cyber-Physical System",
 "author": "Céspedes, Sandra and Salamanca, Juan and Yañez, Alexis and Vinasco, Daniel",
 "journal": "IEEE Transactions on Intelligent Transportation Systems",
