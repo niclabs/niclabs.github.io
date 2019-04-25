@@ -1017,5 +1017,15 @@
 "year": 2018,
 "link": "http://ceur-ws.org/Vol-2178",
 "publisher": "CEUR-WS"
+},
+{
+"key": "inproceedings",
+"title": "Comparison of Path Loss Models for Vehicular Communications in TV White Spaces",
+"author": "Lara, Tomás and Arteaga, Adriana and Céspedes, Sandra",
+"booktitle": "School on Systems and Networks",
+"year": 2018,
+"link": "http://ceur-ws.org/Vol-2178",
+"publisher": "CEUR-WS"
 }
+
 ]
