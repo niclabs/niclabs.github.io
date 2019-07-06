@@ -167,6 +167,7 @@ p.sub_title {
 }
 .port_img img {
     height: 120px;
+    width: auto;
 }
 .port_info {
     background-color: white;
