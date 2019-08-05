@@ -93,7 +93,7 @@
   "name" : "Catalina",
   "last" : "Alvarez",
   "group" : "alumni",
-  "aff" : "DSTI, Universidad de Chile",
+  "aff" : "PhD ETH Zurich",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -312,6 +312,76 @@
   "twitter" : "",
   "github" : "",
   "picurl" : "pics/alonso.jpg"
+  },
+  {
+  "name" : "Danilo",
+  "last" : "Moreira",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/danilo.jpeg"
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Guidotti",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "valegui",
+  "picurl" : "pics/valeria.jpeg"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Ortego",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/diegoo.jpeg"
+  },
+  {
+  "name" : "Gabriel",
+  "last" : "Norambuena",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "gnorambuena",
+  "picurl" : "pics/gabriel.jpeg"
+  },
+  {
+  "name" : "Jose",
+  "last" : "Astorga",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/jose.jpeg"
+  },
+  {
+  "name" : "Juan",
+  "last" : "Saez",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "StarBrand",
+  "picurl" : "pics/juan.jpeg"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Aliaga",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/pablo.jpeg"
   },
   {
   "name" : "Valeria",
