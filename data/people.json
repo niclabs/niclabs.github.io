@@ -324,6 +324,16 @@
   "picurl" : "pics/danilo.jpg"
   },
   {
+  "name" : "Diego",
+  "last" : "Wistuba",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/witu.jpg"
+  },
+  {
   "name" : "Valeria",
   "last" : "Guidotti",
   "group" : "under",
