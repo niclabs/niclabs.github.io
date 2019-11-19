@@ -12,6 +12,24 @@
 },
 {
 "key" : "inproceedings",
+"title" : "Space geometry effect over the Internet as a physical-logical interdependent network",
+"author" : "Bachmann, Ivana and Sanhueza, Francisco and Bustos-Jiménez, Javier",
+"booktitle" : "Springer Proceedings in Complexity",
+"year" : 2020,
+"link" : "https://netscix2020tokyo.github.io",
+"publisher" : "Springer-Verlag"
+},
+{
+"key" : "inproceedings",
+"title" : "Revealing User Behavior by Analyzing DNS Traffic",
+"author" : "Panza, Martín and Madariaga, Diego and Bustos-Jiménez, Javier",
+"booktitle" : "International Conference on Machine Learning for Networking",
+"year" : 2019,
+"link" : "http://www.adda-association.org/mln/Home.html",
+"publisher" : "LNCS Springer"
+},
+{
+"key" : "inproceedings",
 "title" : "IoT solutions for Sustainable Cities: An Online Adaptation for the Driver Intent Inference Algorithm",
 "author" : "Torres, Salomón and Cespedes, Sandra and Bustos-Jimenez, Javier and Serrano, Martín",
 "booktitle" : "5th World Forum on Internet of Things",
