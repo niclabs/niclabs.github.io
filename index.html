@@ -23,25 +23,60 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--// bootstrap-css -->
 
 <!-- fontawesome-css -->
-	<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	
+	<!--<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />-->
+	<!--<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap">
 <!--// fontawesome-css -->
 
 <!-- style-css -->
 	<link href="css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/custom-css.css" rel="stylesheet" type="text/css"/>
 <!--// style-css -->
-
+<style>
+    .h-310 {
+    height:310px !important;
+    }
+    footer img {
+      padding-bottom:0px !important;
+    padding-top:0px !important;
+    }
+    p-top {
+    padding-top:0px;
+    }
+    p-bottom {
+    padding-bottom:0px;
+    }
+    .banner_img {
+    height:70vh !important;
+    }
+</style>
 </head>
-
+<!-- Header Start-->
+    <div class="container">
+        <div class="row" style="border-bottom:1px solid #E1EBF2">
+    <div class="topnav" id="myTopnav" style="color:#666 !important;">
+  <a href="#banner" onclick="banner();">Home</a>
+  <a href="#about" onclick="about();">Acerca De </a>
+  <a href="#team" onclick="team();">Personas</a>
+  <a href="#portfolio" onclick="portfolio();">Proyectos</a>
+  <a href="#paper" onclick="paper();">Últimas Publicaciones</a>
+  <a href="#twitter" onclick="twitter();">Novedades</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+            </div>
+    </div>
+    <!--Header End-->
 <body>
 
 <!-- banner starts-->
-<section id="banner">
+<section id="banner" style="display:none;">
 	<div class="banner_img">
 		<div class="slider_content">
         	<img src="images/logo.png" class="slider_logo">
-        	<h1 class="slider_title">Bienvenido a NIC labs</h1>
+        	
             
         </div>
 	</div>
@@ -49,15 +84,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- banner ends-->
 
 <!-- down arrow starts -->
-<section id="down_arrow">
+<!--<section id="down_arrow">
 	<a href="#about" class="button-down">
 		<i class="fa fa-chevron-down"></i>
 	</a>
-</section>
+</section>-->
 <!-- down arrow Ends -->
 
 <!-- about starts -->
-<section id="about">
+<section id="about"  style="display:none;">
 	<div class="container">
 		<div class="col-md-6 col-sm-12">
 			<br><br><br><br><div class="about_img">
@@ -67,7 +102,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-md-6 col-sm-12">
 			<div class="about_content">
 				<div class="abt_title">
-					<h1>Acerca de NIC <span>Labs</span></h1>
+					<h4>Acerca de NIC <span>Labs</span></h4>
 				</div>
 				<p>  Laboratorio de investigación sobre Internet Protocols, Communication Networks, and  Complex Networks de <a href=http://www.nic.cl>NIC Chile</a>, FCFM, Universidad de Chile
                 </p>
@@ -84,10 +119,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="clearfix"></div>
 
 <!-- people Starts -->
-<section id="team">
+<section id="team" style="display:none;">
 	<div class="container">
-		<div class="main_title">
-			<h1>Personas</h1>
+		<div class="main_title" style="text-align:center;">
+			<h4>Personas</h4>
 			<p class="sub_title"></p>
 		</div>
 		<div class="team_content">
@@ -138,7 +173,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		
 		<div class="clearfix"></div>
 		<div class="view_all">
-			<a href="personas.html" class="view_btn">View All</a>
+			<a href="#" class="view_btn">View All</a>
 		</div>
 
 	</div>
@@ -148,10 +183,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 <!-- portfolio starts -->
-<section id="portfolio">
+<section id="portfolio"  style="display:none;">
 	<div class="container">
-		<div class="main_title">
-			<h1>Proyectos</h1>
+		<div class="main_title" style="text-align:center;">
+			<h4>Proyectos</h4>
 			<p class="sub_title"></p>
 		</div>
 		<div class="portfolio_content">
@@ -168,6 +203,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     					</div>
     					<div class="port_info">
     						<p>Adkintun Mobile</p>
+                            <p style="text-align:left !important; color:#333 !important"> permite evaluar la calidad del servicio entregada por proveedores de Internet móvil y que además podrá ayudarte a conocer a través de mediciones periódicas, los datos subidos y descargados en tu smartphone.
+                            </p>
     					</div>
     				</a>
 				</div>
@@ -183,6 +220,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					    </div>
 					    <div class="port_info">
 						    <p>Obs. Internet</p>
+                            <p style="text-align:left !important; color:#333 !important">El Observatorio del DNS Latinoamericano es un proyecto de investigación del estado técnico del servicio de los nombres de dominio en nuestra región.
+                            </p>
 					    </div>
 					</a>
 				</div>
@@ -198,6 +237,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         			    </div>
         			    <div class="port_info">
         					<p>HSM distribuido</p>
+                            <p style="text-align:left !important; color:#333 !important">Un sistema que proporciona una solución de bajo costo y altamente segura para el almacenamiento de claves, utilizando criptografía de umbral
+                            </p>
         				</div>
     				</a>
 				</div>
@@ -227,6 +268,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         			    </div>
         			    <div class="port_info">
         					<p>Yafün</p>
+                            <p style="text-align:left !important; color:#333 !important">Este proyecto fue el encargado de documentar la presencia de tendidos de fibra óptica en los caminos principales y segundarios en prácticamente la totalidad de comunas de Chile durante los años 2016 – 2018, ademas de programar el sistema de información geográfico y calcular métricas de resiliencia.
+                            </p>
         				</div>
     				</a>
 				</div>
@@ -243,6 +286,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         			    </div>
         			    <div class="port_info">
         					<p>Internet of Everything</p>
+                            <p style="text-align:left !important; color:#333 !important">
+                            </p>
         				</div>
     				</a>
 				</div>
@@ -259,14 +304,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 <!-- paper Starts -->
-<section id="paper">
+<section id="paper" style="display:none;">
 	<div class="container">
-		<div class="main_title">
-			<h1>&Uacute;ltimas publicaciones</h1>
+		<div class="main_title"  style="text-align:center;">
+			<h4>&Uacute;ltimas publicaciones</h4>
 		</div>
 		<div class="papers_content animate-box">
 			
-			<div class="col-md-3 col-sm-12">
+			<div class="col-md-3 col-sm-12 h-310">
 				<div class="papers all 2017" data-cat="2017">
 					<div class="paper_img">
 						<img src="images/pdf.png">
@@ -326,15 +371,46 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 <!-- twitter Starts -->
-<section id="twitter">
+<section id="twitter" style="display:none;">
         <div class="container">
-                <div class="main_title">
-                        <h1>Novedades, via <a href=http://twitter.com/niclabscl>@niclabscl</a></h1>
+            <div class="row">
+                <div class="main_title"  style="text-align:center;">
+                        <h4>Novedades, via <a href=http://twitter.com/niclabscl>@niclabscl</a> </h4>
                 </div>
-	<div class="">
+                </div>
+	<div class="row">
+        <div class="col-xs-12 col-md-8">
 <a class="twitter-grid" data-limit="5" data-border-color="#a80000" 
 href="https://twitter.com/niclabscl/timelines/934073005172559873?ref_src=twsrc%5Etfw">NIC Labs News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </div>
+        <div class="col-xs-12 col-md-4">
+            <div class="modulo-auxiliar" style="min-height:300px">
+            <div class="main_title" style="text-align:left;">
+			<h4>Tweeter Feed</h4>
+                <ul class="menu-columna-auxiliar">
+                <li>
+                  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                  <a href="http://bitacoras.niclabs.cl/2019/07/ietf-104-prague-theinternet-engineering.html">IETF 104 - PRAGUE</a>
+                  
+                </li>
+                <li>
+                  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                  <a href="http://bitacoras.niclabs.cl/2018/08/acmieee-symposium-on-architectures-for.html">ACM/IEEE Symposium on Architectures for Networking and Communications Systems</a>
+                  
+                </li>
+                <li>
+                  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                  <a href="http://bitacoras.niclabs.cl/2018/08/openvis-conf-2018.html">OpenVis conf 2018</a>
+                  
+                </li>
+                     
+               
+              </ul>
+		</div>
+                </div>
+        </div>
+        </div>
+            </div>
 </section>
 <!-- twitter Ends -->
 <div class="clearfix"></div>
@@ -365,6 +441,56 @@ href="https://twitter.com/niclabscl/timelines/934073005172559873?ref_src=twsrc%5
 	
 
 <script type="text/javascript">
+    function banner()
+    {
+        $("#banner").css("display", "block");
+        $("#about").css("display", "none");
+        $("#team").css("display", "none");
+        $("#portfolio").css("display", "none");
+        $("#paper").css("display", "none");
+        $("#twitter").css("display", "none");
+    }
+    function about() {
+        $("#banner").css("display", "none");
+        $("#about").css("display", "block");
+        $("#team").css("display", "none");
+        $("#portfolio").css("display", "none");
+        $("#paper").css("display", "none");
+        $("#twitter").css("display", "none");
+    }
+    function team() {
+        $("#banner").css("display", "none");
+        $("#about").css("display", "none");
+        $("#team").css("display", "block");
+        $("#portfolio").css("display", "none");
+        $("#paper").css("display", "none");
+        $("#twitter").css("display", "none");
+    }
+    function portfolio() {
+        $("#banner").css("display", "none");
+        $("#about").css("display", "none");
+        $("#team").css("display", "none");
+        $("#portfolio").css("display", "block");
+        $("#paper").css("display", "none");
+        $("#twitter").css("display", "none");
+    }
+    function paper() {
+        $("#banner").css("display", "none");
+        $("#about").css("display", "none");
+        $("#team").css("display", "none");
+        $("#portfolio").css("display", "none");
+        $("#paper").css("display", "block");
+        $("#twitter").css("display", "none");
+    }
+    function twitter() {
+        $("#banner").css("display", "none");
+        $("#about").css("display", "none");
+        $("#team").css("display", "none");
+        $("#portfolio").css("display", "none");
+        $("#paper").css("display", "none");
+        $("#twitter").css("display", "block");
+    }
+
 	$(function () {
 		
 		var filterList = {		
@@ -401,7 +527,8 @@ href="https://twitter.com/niclabscl/timelines/934073005172559873?ref_src=twsrc%5
 	</script>
 <script>
 $(document).ready(function(){
-  // Add smooth scrolling to all links
+    // Add smooth scrolling to all links
+    $("#banner").css("display", "block");
   $(".button-down").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior
@@ -445,6 +572,15 @@ $(document).ready(function () {
     });
 
 });
+
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
