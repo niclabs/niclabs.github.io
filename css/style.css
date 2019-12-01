@@ -200,7 +200,7 @@ section#banner::after {
     right: 0;
 }*/
 .banner_img{
-    background-image: url(../images/banner.png);
+    /*background-image: url(../images/banner.png);*/
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
@@ -210,7 +210,7 @@ h1.slider_title {
     text-align: center;
     /*margin-top: 19%;*/
     text-transform: uppercase;
-    color: #ffffff;
+    color: black;
     font-weight: 700;
     text-shadow: 2px 2px 5px #0054ac;
 }
@@ -293,10 +293,12 @@ footer {
 a.view_btn {
     background-color: #2e2e2e;
     padding: 12px 30px;
-    color: white;
+    color: white !important;
 }
 a.view_btn:hover {
-    background-color: red;
+    background-color: white;
+    color: black !important;
+    border:1px solid;
 }
 .paper_img img {
     width: 60px;
