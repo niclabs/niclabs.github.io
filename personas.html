@@ -27,19 +27,69 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--// bootstrap-css -->
 
 <!-- fontawesome-css -->
-	<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!--<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />-->
+<!--	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
+
+	<!--<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap">
 <!--// fontawesome-css -->
 
 <!-- style-css -->
 	<link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/custom-css.css" rel="stylesheet" type="text/css"/>
 <!--// style-css -->
+    <style>
+    .h-310 {
+    height:310px !important;
+    }
+    footer img {
+      padding-bottom:0px !important;
+    padding-top:0px !important;
+    }
+    p-top {
+    padding-top:0px;
+    }
+    p-bottom {
+    padding-bottom:0px;
+    }
+    .banner_img {
+    height:65vh !important;
+    }
+</style>
 </head>
-
+<!-- Header Start-->
+    <div class="container" id="container">
+        <div class="row" style="border-bottom:1px solid #E1EBF2">
+<!--    <div class="topnav" id="myTopnav" style="color:#666 !important;">
+  <a href="#banner" onclick="banner();">Casa</a>
+  <a href="#about" onclick="about();">Acerca De Nic Labs</a>
+  <a href="#team" onclick="team();">Personas</a>
+  <a href="#portfolio" onclick="portfolio();">Proyectos</a>
+  <a href="#paper" onclick="paper();">Últimas Publicaciones</a>
+  <a href="#twitter" onclick="twitter();">Novedades</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>-->
+                <div class="topnav" id="myTopnav" style="color:#666 !important;">
+  <a href="index.html">Home</a>
+  <!--<a href="Acerca-De-Nic-Labs.html">Acerca De</a>-->
+  <a href="personas.html">Personas</a>
+  <a href="Proyectos.html">Proyectos</a>
+  <a href="publicaciones.html">Últimas Publicaciones</a>
+  <a href="Novedades.html">Novedades</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+            </div>
+    </div>
+    <!--Header End-->
 <body>
 
 <!-- banner starts-->
-<section id="header">
+<!--<section id="header">
 	<div class="container" id="container">
 		<nav class="navbar navbar-inverse">
 		    <div class="navbar-header">
@@ -60,15 +110,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		    </div>
 		</nav>
 	</div>
-</section>
+</section>-->
 <!-- banner ends-->
 <div class="clearfix"></div>
 
 <!-- people Starts -->
 <section id="team_detail">
 	<div class="container-fluid">
-		<div class="main_title">
-			<h1>Personas</h1>
+		<div class="main_title" style="text-align:center;">
+			<h4>Personas</h4>
 		</div>
 
           <div class="team_content now">
@@ -81,23 +131,40 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- Alumini Starts -->
 <section id="team_detail">
 	<div class="container-fluid">
-		<div class="main_title">
-			<h1>Alumni</h1>
+		<div class="main_title" style="text-align:center;">
+			<h4>Alumni</h4>
 		</div>
 		<div class="team_content alumni">
 		</div>
 	</div>
 </section>
 <!-- Alumini Ends -->
+<!-- footer Starts -->
+<footer>
+	<div class="container">
+	    <p>© Copyright NIC Labs. Todos los derechos reservados.</p>
+       
+                        <a href="http://www.nic.cl">
+  <img src="images/logonicnuevo.png" class="slider_logo" style="display:inline-block; margin-top:13px;">
+</a>
+        <a href="http://ingenieria.uchile.cl/">
+  <img src="images/updated-logo.jpeg"  class="slider_logo" style="display:inline-block">
+</a>
 
+	</div>
+	<div class="scrollup"></div>
+</footer>
+
+<!-- footer Ends -->
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <!-- footer Starts -->
-<footer>
+
+<!--<footer>
 	<p>© Copyright NIC Labs. Todos los derechos reservados</p>
 	<div class="scrollup"></div>
-</footer>
+</footer>-->
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
