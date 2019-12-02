@@ -3492,3 +3492,41 @@ color:#4a7092 !important;
 .port p:hover {
 color:#4a7092 !important;
 }*/
+
+#about, #portfolio, #team, #paper, #twitter {
+     padding: 0; 
+}
+
+.hentry {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 26px;
+    margin-bottom: 2.6rem;
+    padding-bottom: 26px;
+    padding-bottom: 2.6rem;
+}
+
+.entry-header {
+    margin-bottom: 15px;
+    margin-bottom: 1.5rem;
+}
+
+.entry-header, .entry-content, .entry-summary, .entry-meta {
+    width: 100%;
+}
+.entry-title {
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+
+.pbtthumbimg {
+    float: left;
+    margin: 0px 10px 5px 5px;
+    padding: 4px;
+    border: 1px solid #eee;
+    background: #fff;
+    width: 200px;
+    /*height: 150px;*/
+}
