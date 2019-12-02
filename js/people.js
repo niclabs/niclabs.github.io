@@ -1,7 +1,6 @@
 function fullpeople(w)
 {
-    debugger;
-d3.json("../../data/people.json", function(error, data) {
+d3.json("data/people.json", function(error, data) {
   if (error) throw error;
 
   data.sort(function(a,b) {return d3.ascending(a.last,b.last);});
