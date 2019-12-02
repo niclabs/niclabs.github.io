@@ -57,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </style>
 </head>
 <!-- Header Start-->
-    <div class="container">
+    <div class="container" id="container">
         <div class="row" style="border-bottom:1px solid #E1EBF2">
 <!--    <div class="topnav" id="myTopnav" style="color:#666 !important;">
   <a href="#banner" onclick="banner();">Casa</a>
@@ -176,7 +176,14 @@ $(document).ready(function () {
     });
 
 });
-
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
 pub('paper_container',document.getElementById('container').clientWidth);
 </script>
 </body>
