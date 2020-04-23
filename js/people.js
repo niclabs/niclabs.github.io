@@ -50,11 +50,7 @@ d3.json("data/people.json", function(error, data) {
            })
          .html(function f(d) { 
          var text = "<p>"+d.name+" "+d.last+"</p><p>";
-         if (d.group == 'researcher' || d.group == 'alumni' ) {
-           text += d.aff;
-         } else {
-           text += d.job
-         }
+         text += d.job
          text += "</p>";
          return text;});
 
