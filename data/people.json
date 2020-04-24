@@ -404,6 +404,16 @@
   "picurl" : "pics/javi.jpg"
   },
   {
+  "name" : "Gabriel",
+  "last" : "Flores",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/gabrielflores.jpg"
+  },
+  {
   "name" : "Kelly",
   "last" : "Wagemann",
   "group" : "under",
