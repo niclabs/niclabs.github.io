@@ -21,6 +21,34 @@
 },
 {
 "key" : "inproceedings",
+"title" : "Analyzing the Adoption of QUIC From a Mobile Development Perspective",
+"author" : "Madariaga, Diego and Torrealba, Lucas and Madariaga, Javier and Bermúdez, Javiera and Bustos-Jiménez, Javier",
+"booktitle" : "Proceedings of the ACM Workshop on the Evolution, Performance, and Interoperability of QUIC",
+"month": "Aug",
+"year" : 2020,
+"link" : "https://dl.acm.org/doi/abs/10.1145/3405796.3405830",
+"publisher" : "ACM Digital Library"
+},
+{
+"key" : "inproceedings",
+"title" : "Analyzing the Robustness of the Chilean Optical Network",
+"author" : "Bachmann, Ivana and Bustos-Jiménez, Javier and Piquer, José and Saint-Pierre, Cecilia and Rivas, Matilde and Valenzuela, Marcelo",
+"booktitle" : "ACM SIGCOMM 2nd Workshop on Optical Systems Design (OptSys)",
+"year" : 2020,
+"link" : "pdfs/optsys2020.pdf",
+"publisher" : "[Online]"
+},
+{
+"key" : "inproceedings",
+"title" : "Presenting our Distributed HSM and DNS-Tools",
+"author" : "Bustos-Jiménez, Javier and Salgado, Hugo",
+"booktitle" : "DNS and Internet Naming Research Directions",
+"year" : 2020,
+"link" : "https://ant.isi.edu/events/dinr2020/P/p12.pdf",
+"publisher" : "[Online]"
+},
+{
+"key" : "inproceedings",
 "title" : "Revealing User Behavior by Analyzing DNS Traffic",
 "author" : "Panza, Martín and Madariaga, Diego and Bustos-Jiménez, Javier",
 "booktitle" : "International Conference on Machine Learning for Networking",
