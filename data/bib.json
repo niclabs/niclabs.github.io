@@ -12,6 +12,15 @@
 },
 {
 "key" : "inproceedings",
+"title" : "Analysis and Evaluation of HTTP/2 Flow Control Algorithm for IoT",
+"author" : "Londoño, Diego and Céspedes, Sandra and Bustos-Jiménez, Javier",
+"booktitle" : "IEEE COLCOM",
+"year" : 2020,
+"link" : "pdfs/colcom2020.pdf",
+"publisher" : "IEEE"
+},
+{
+"key" : "inproceedings",
 "title" : "Space geometry effect over the Internet as a physical-logical interdependent network",
 "author" : "Bachmann, Ivana and Sanhueza, Francisco and Bustos-Jiménez, Javier",
 "booktitle" : "Springer Proceedings in Complexity",
