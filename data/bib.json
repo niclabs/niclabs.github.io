@@ -1,4 +1,50 @@
 [
+
+{
+"key": "article",
+"title": "POSACC: position-accuracy based adaptive beaconing algorithm for cooperative vehicular safety systems",
+"author": "Bolufé, Sandy and Azurdia-Meza, Cesar A and Céspedes, Sandra and Montejo-Sánchez, Samuel and Souza, Richard Demo and Fernandez, Evelio MG",
+"journal": "IEEE Access",
+"volume": 8,
+"pages": "15484--15501",
+"year": 2020,
+"link": "https://ieeexplore.ieee.org/document/8961987",
+"publisher": "IEEE"
+},
+{
+"key": "article",
+"title": "Communication Requirements in Microgrids: A Practical Survey",
+"author": "Serban, Ioan and Céspedes, Sandra and Marinescu, Corneliu and Azurdia, César and Gómez, Juan and Sáez, Doris",
+"journal": "IEEE Access",
+"volume": 8,
+"pages": "47694--47712",
+"year": 2020,
+"link": "https://ieeexplore.ieee.org/document/9023471",
+"publisher": "IEEE"
+},
+{
+"key": "article",
+"title": "Capacitated Multicommodity Flow Problem for Heterogeneous Smart Electricity Metering Communications Using Column Generation",
+"author": "Inga, Esteban and Hincapié, Roberto and Céspedes, Sandra",
+"journal": "Energies",
+"volume": 13,
+"pages": "97",
+"year": 2020,
+"link": "https://www.mdpi.com/1996-1073/13/1/97",
+"publisher": "MDPI"
+},
+{
+"key": "article",
+"title": "A Baseline for Context-aware Safety Messages Dissemination in VANETs",
+"author": "Yañez, Alexis and Céspedes, Sandra and Rubio-Loyola, Javier",
+"journal": "Revista Facultad de Ingeniería",
+"volume": 93,
+"pages": "9--18",
+"year": 2019,
+"link": "https://revistas.udea.edu.co/index.php/ingenieria/article/view/335962",
+"publisher": "Universidad de Antioquía"
+},
+
 {
 "key": "incollection",
 "title": "Improving the Chilean Internet Robustness: Increase the Interdependencies or Change the Shape of the Country?",
@@ -9,6 +55,33 @@
 "pages": "646--657",
 "link": "https://link.springer.com/chapter/10.1007/978-3-319-72150-7_52",
 "publisher": "Springer"
+},
+{
+"key" : "inproceedings",
+"title" : "Evaluation of Opportunistic Access Strategies for Vehicular Networking Over TVWS",
+"author" : "Arteaga, Adriana and Palacios-Jativa, Pablo and Céspedes, Sandra and Azurdia-Meza, César",
+"booktitle" : "92nd Vehicular Technology Conference (VTC-Fall 2020)",
+"year" : 2020,
+"link" : "",
+"publisher" : "IEEE"
+},
+{
+"key" : "inproceedings",
+"title" : "Understanding and Characterizing Transmission Times for Compressed IP packets over LoRaWAN",
+"author" : "Lara, Rodrigo and Céspedes, Sandra and Hafid, Abdelhakim",
+"booktitle" : "Latin-American Conference on Communications (LATINCOM)",
+"year" : 2019,
+"link" : "https://ieeexplore.ieee.org/document/8938005",
+"publisher" : "IEEE"
+},
+{
+"key" : "inproceedings",
+"title" : "Direct-To-Satellite IoT - A Survey of the State of the Art and Future Research Perspectives",
+"author" : "Fraire, Juan and Céspedes, Sandra and Accettura, Nicola",
+"booktitle" : "Ad-Hoc, Mobile, and Wireless Networks. ADHOC-NOW",
+"year" : 2019,
+"link" : "https://link.springer.com/chapter/10.1007/978-3-030-31831-4_17",
+"publisher" : "IEEE"
 },
 {
 "key" : "inproceedings",
@@ -94,7 +167,7 @@
 "volume": "2020",
 "number": 2363514,
 "year": 2020,
-"pages": "17 (Online, Open Access)",
+"pages": 17,
 "link": "https://doi.org/10.1155/2020/2363514",
 "publisher": "Hindawi"
 },
