@@ -314,6 +314,16 @@
   "picurl" : "pics/alonso.jpg"
   },
   {
+  "name" : "Javier",
+  "last" : "Madariaga",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "pics/jmadariaga.jpg"
+  },
+  {
   "name" : "Danilo",
   "last" : "Moreira",
   "group" : "under",
