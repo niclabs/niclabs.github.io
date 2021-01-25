@@ -1,5 +1,48 @@
 [
-
+{
+"key": "article",
+"title": "A comprehensive survey on vehicular networks for smart roads: A focus on IP-based approaches",
+"author": "Jeong, Jaehoon and Shen, Yiwen and Oh, Tae and Céspedes, Sandra and Benamar, Nabil  and  Wetterwald, Michelle and Härri, Jérôme",
+"journal": "Vehicular Communications",
+"volume": 29,
+"pages": "2214--2096",
+"year": 2021,
+"link": "https://doi.org/10.1016/j.vehcom.2021.100334",
+"publisher": "Elsevier"
+},
+{
+"key": "article",
+"title": "Automated Decision System to Exploit Network Diversity for Connected Vehicles",
+"author": "Valle, Felipe and Céspedes, Sandra and Hafid, Abdelhakim",
+"journal": "IEEE Transactions on Vehicular Technology",
+"volume": 0,
+"year": 2020,
+"pages": "0",
+"link": "https://ieeexplore.ieee.org/abstract/document/9305961",
+"publisher": "IEEE"
+},
+{
+"key": "article",
+"title": "Impact of Awareness Control on V2V-based Overtaking Application in Autonomous Driving",
+"author": "Bolufé, Sandy and Azurdia-Meza, César and Céspedes, Sandra and Montejo-Sánchez, Samuel",
+"journal": "IEEE Communications Letters",
+"volume": 0,
+"year": 2020,
+"pages": "0",
+"link": "https://ieeexplore.ieee.org/abstract/document/9293333",
+"publisher": "IEEE"
+},
+{
+"key": "article",
+"title": "Detecting Anomalies at a TLD Name Server Based on DNS Traffic Predictions",
+"author": "Madariaga, Diego and Madariaga, Javier and Panza, Martín and Bustos-Jiménez, Javier and Bustos, Benjamín",
+"journal": "IEEE Transactions on Network and Service Management",
+"volume": 0,
+"year": 2021,
+"pages": "0",
+"link": "https://ieeexplore.ieee.org/document/9320589",
+"publisher": "IEEE"
+},
 {
 "key": "article",
 "title": "POSACC: position-accuracy based adaptive beaconing algorithm for cooperative vehicular safety systems",
