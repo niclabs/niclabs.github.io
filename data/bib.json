@@ -202,6 +202,15 @@
 "publisher" : "IEEE"
 },
 {
+"key" : "inproceedings",
+"title" : "Pedestrians also Have Something to Say: Integration of Connected VRU in Bidirectional Simulations",
+"author" : "Yañez, Alexis and Cespedes, Sandra",
+"booktitle" : "Vehicular Networking Conference (VNC)",
+"year" : 2020,
+"link" : "http://doi.org/10.1109/VNC51378.2020.9318367",
+"publisher" : "IEEE"
+},
+{
 "key": "article",
 "title": "Impact of Safety Message Generation Rules on the Awareness of Vulnerable Road Users",
 "author": "Lara, Tomás and Yáñez, Alexis and Céspedes, Sandra and Hafid, Abdelhakim Senhaji",
