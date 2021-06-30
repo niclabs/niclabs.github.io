@@ -1,6 +1,17 @@
 [
 {
 "key": "article",
+"title": "Characterization of robustness and resilience in graphs: a mini-review",
+"author": "Schaeffer, Satu Elisa and Valdés, Valeria and Figols, Javiera and Bachmann, Ivana and Morales, Fernando and Bustos-Jiménez, Javier",
+"journal": "Journal of Complex Networks",
+"volume": "9(2)",
+"year": 2021,
+"pages": "0 (Online)",
+"publisher": "Oxford Academic",
+"link": "https://doi.org/10.1093/comnet/cnab018"
+},
+{
+"key": "article",
 "title": "Improving Signal-Strength Aggregation for Mobile Crowdsourcing Scenarios",
 "author": "Madariaga, Diego and Madariaga, Javier and Bustos-Jiménez, Javier and Bustos, Benjamín",
 "journal": "Sensors",
