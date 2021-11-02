@@ -1,0 +1,798 @@
+[
+  { 
+  "name" : "Sandra",
+  "last" : "Cespedes",
+  "job" : "DIE, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.cec.uchile.cl/~scespedes",
+  "twitter" : "scespedes",
+  "github" : "scespedes",
+  "picurl" : "assets/images/people/sandra.png"
+  },
+  {
+  "name" : "Javier",
+  "last" : "Bustos-Jimenez",
+  "job" : "Researcher",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~jbustos",
+  "twitter" : "madestro",
+  "github" : "madestro",
+  "picurl" : "assets/images/people/javier.jpg"
+  },
+  {
+  "name" : "Jose",
+  "last" : "Piquer",
+  "job" : "DCC, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~jpiquer",
+  "twitter" : "jpiquer",
+  "github" : "",
+  "picurl" : "assets/images/people/piquer.png"
+  },
+  {
+  "name" : "Alejandro",
+  "last" : "Hevia",
+  "job" : "DCC, Universidad de Chile",
+  "group" : "researcher",
+  "www" : "http://www.dcc.uchile.cl/~ahevia",
+  "twitter" : "ahevia",
+  "github": "",
+  "picurl" : "assets/images/people/hevia.png"
+  },
+  {
+  "name" : "Rodrigo",
+  "last" : "Arenas",
+  "group" : "pro",
+  "job" : "Sysadmin",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/roarenas.jpg"
+  },
+  {
+  "name" : "Maria Jose",
+  "last" : "Vilches",
+  "group" : "alumni",
+  "job" : "UC London, UK",
+  "www" : "",
+  "twitter" : "",
+  "github" : "mj282",
+  "picurl" : "assets/images/people/cote.jpg"
+  },
+  {
+  "name" : "Sebastian",
+  "last" : "Blasco",
+  "group" : "alumni",
+  "job" : "Digital Experience Lab, Principal Financial Group",
+  "www" : "",
+  "twitter" : "sebablasko",
+  "github" : "sebablasko",
+  "picurl" : "assets/images/people/blasco.jpg"
+  },
+  {
+  "name" : "Boris",
+  "last" : "Romero",
+  "group" : "alumni",
+  "job" : "Calce.org",
+  "www" : "",
+  "twitter" : "",
+  "github" : "Zeeerooo",
+  "picurl" : "assets/images/people/boris.jpg"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Quintanilla",
+  "group" : "alumni",
+  "job" : "U-Campus, Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/pipe.jpg"
+  },
+  {
+  "name" : "Catalina",
+  "last" : "Alvarez",
+  "group" : "alumni",
+  "job" : "PhD ETH Zurich",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/cata.jpg"
+  },
+  {
+  "name" : "Patricia",
+  "last" : "Martinez",
+  "group" : "pro",
+  "job" : "Administrative Manager",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/paty.jpg"
+  },
+  {
+  "name" : "Meryann",
+  "last" : "Solano",
+  "group" : "pro",
+  "job" : "Administrative Assistant",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/mery.jpg"
+  },
+  {
+  "name" : "Mauricio",
+  "last" : "Araya",
+  "group" : "external",
+  "job" : "Computing and Modeling, Shell Oil USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/009/028/2698224.jpg"
+  },
+  {
+  "name" : "Alonso",
+  "last" : "Silva",
+  "group" : "external",
+  "job" : "NOKIA Bell Labs, France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/000/1d8/38a/389afbf.jpg"
+  },
+  {
+  "name" : "Patricio",
+  "last" : "Reyes",
+  "group" : "external",
+  "job" : "ITMATI, Spain",
+  "www" : "",
+  "twitter" : "pareyesv",
+  "github" : "",
+  "picurl" : "http://portal.uc3m.es/portal/pls/portal/docs/44390049.JPG"
+  },
+  {
+  "name" : "Tobias",
+  "last" : "Schreck",
+  "group" : "external",
+  "job" : "Graz University of Technology, Austria",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://scholar.google.com/citations?view_op=medium_photo&user=9cJsSIIAAAAJ&citpid=1"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Londoño",
+  "group" : "alumni",
+  "grad" : "MSc",
+  "job" : "Everis Colombia",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C4E03AQEtHQOpkIOijQ/profile-displayphoto-shrink_800_800/0/1584643463329?e=1640217600&v=beta&t=O3HJISw5cgTNru9Lq-WoJmUszGn6DksHqdV-kGXx4gY"
+  },
+  {
+  "name" : "Camila",
+  "last" : "Faundez",
+  "group" : "alumni",
+  "grad" : "MSc",
+  "job" : "Synopsis Inc. Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/cami.jpg"
+  },
+  {
+  "name" : "Ivana",
+  "last" : "Bachmann",
+  "group" : "grad",
+  "grad" : "PhD",
+  "job" : "PhD student",
+  "www" : "",
+  "twitter" : "ivapls",
+  "github" : "",
+  "picurl" : "assets/images/people/iva.jpg"
+  },
+  {
+  "name" : "Camilo",
+  "last" : "Gomez",
+  "group" : "alumni",
+  "grad" : "MSc",
+  "job" : "CLCERT",
+  "www" : "",
+  "twitter" : "milogomez_",
+  "github" : "CamiloG",
+  "picurl" : "https://avatars2.githubusercontent.com/u/4451287?v=3&s=460"
+  },
+  {
+  "name" : "Fernando",
+  "last" : "Morales",
+  "group" : "alumni",
+  "job" : "Djavu",
+  "www" : "",
+  "twitter" : "fernandogmc",
+  "github" : "nanocatdemen",
+  "picurl" : "assets/images/people/fernando.jpg"
+  },
+  {
+  "name" : "Francisco",
+  "last" : "Montoto",
+  "group" : "alumni",
+  "job" : "Google, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "fmontoto",
+  "picurl" : "https://avatars1.githubusercontent.com/u/6362075?v=3&s=460"
+  },
+  {
+  "name" : "Eduardo",
+  "last" : "Acha",
+  "group" : "alumni",
+  "job" : "Synopsys Inc. Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "eacha",
+  "picurl" : "assets/images/people/acha.jpg"
+  },
+  {
+  "name" : "Maite",
+  "last" : "Gonzalez",
+  "group" : "pro",
+  "job" : "Research Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "maitegm",
+  "picurl" : "https://avatars3.githubusercontent.com/u/5554275?v=4&s=460"
+  },
+  {
+  "name" : "Benjamin",
+  "last" : "Holloway",
+  "group" : "alumni",
+  "job" : "Magnet.cl",
+  "www" : "",
+  "twitter" : "",
+  "github" : "bhollowa",
+  "picurl" : "https://avatars1.githubusercontent.com/u/2522581?v=3&s=460"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Madariaga",
+  "group" : "grad",
+  "job" : "PhD student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "dmadariaga",
+  "picurl" : "assets/images/people/diego.jpg"
+  },
+  {
+  "name" : "Jeisson",
+  "last" : "Sanchez",
+  "group" : "alumni",
+  "job" : "Software Estratégico, Colombia.",
+  "www" : "",
+  "twitter" : "",
+  "github" : "JsonSM", 
+  "picurl" : "assets/images/people/jeisson.jpg"
+  },
+  {
+  "name" : "Caterina",
+  "last" : "Muñoz",
+  "group" : "alumni",
+  "job" : "Google, US",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C5603AQFuUM4e7-1K4A/profile-displayphoto-shrink_800_800/0/1579487372277?e=1640217600&v=beta&t=WfHhXqG-q_eR92v2y9FXVA3KuhYy94Rhy2cUcQ5gHXA"
+  },
+  {
+  "name" : "Manuel",
+  "last" : "Olguin",
+  "group" : "alumni",
+  "job" : "PhD, KTH Royal Institute of Technology, Sweden",
+  "www" : "",
+  "twitter" : "",
+  "github" : "molguin92",
+  "picurl" : "https://avatars2.githubusercontent.com/u/1755518?v=3&s=400"
+  },
+  {
+  "name" : "Salomon",
+  "last" : "Torres",
+  "group" : "alumni",
+  "job" : "Djavu",
+  "www" : "",
+  "twitter" : "",
+  "github" : "torress",
+  "picurl" : "https://avatars2.githubusercontent.com/u/9119756?v=3&s=460"
+  },
+  {
+  "name" : "Alonso",
+  "last" : "Reyes",
+  "group" : "alumni",
+  "job" : "Houm",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/alonso.jpg"
+  },
+  {
+  "name" : "Javier",
+  "last" : "Madariaga",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/jmadariaga.jpg"
+  },
+  {
+  "name" : "Danilo",
+  "last" : "Moreira",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/danilo.jpg"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Martín",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/pablomartin.jpg"
+  },
+  {
+  "name" : "Lucas",
+  "last" : "Torrealba",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/lucas.jpg"
+  },
+  {
+  "name" : "Diego",
+  "last" : "Wistuba",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/witu.jpg"
+  },
+  {
+  "name" : "Camila",
+  "last" : "Labarca",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/camilabarca.jpg"
+  },
+  {
+  "name" : "Nelson",
+  "last" : "Marambio",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/nelson.jpg"
+  },
+  {
+  "name" : "Julia",
+  "last" : "Paredes",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/julia.jpg"
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Cardoza",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/vcardoza.jpg"
+  },
+  {
+  "name" : "Jose",
+  "last" : "Astorga",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/jose.jpeg"
+  },
+  {
+  "name" : "Juan",
+  "last" : "Saez",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "StarBrand",
+  "picurl" : "assets/images/people/juan.jpeg"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Aliaga",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/pablo.jpeg"
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Valdés",
+  "group" : "grad",
+  "job" : "MSc student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "valeriavaldes",
+  "picurl" : "assets/images/people/vale.jpg"
+  },
+  {
+  "name" : "Sebastián",
+  "last" : "Cifuentes",
+  "group" : "alumni",
+  "job" : "",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/seba.jpg"
+  },
+  {
+  "name" : "Javiera",
+  "last" : "Bermúdez",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "Javi801",
+  "picurl" : "assets/images/people/javi.jpg"
+  },
+  {
+  "name" : "Gabriel",
+  "last" : "Flores",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/gabrielflores.jpg"
+  },
+  {
+  "name" : "Kelly",
+  "last" : "Wagemann",
+  "group" : "under",
+  "job" : "Undergrad student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "kelly97wagemann",
+  "picurl" : "assets/images/people/kelly.jpg"
+  },
+  {
+  "name" : "Gabriela",
+  "last" : "Mendoza",
+  "group" : "alumni",
+  "job" : "MACH, Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "gabrielaelisa",
+  "picurl" : "assets/images/people/gaby.jpg"
+  },
+  {
+  "name" : "Eduardo",
+  "last" : "Riveros",
+  "group" : "alumni",
+  "job" : "BancoEstado, Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "adderou",
+  "picurl" : "assets/images/people/edo.jpg"
+  },
+  {
+  "name" : "Daniela",
+  "last" : "Ruz",
+  "group" : "alumni",
+  "job" : "Institute of Astronomy, University of Cambridge, UK",
+  "www" : "",
+  "twitter" : "",
+  "github" : "druzmieres",
+  "picurl" : "assets/images/people/daniruz.jpg"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Espinoza",
+  "group" : "alumni",
+  "job" : "EOL Universidad de Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "fdns",
+  "picurl" : "assets/images/people/felipee.jpg"
+  },
+  {
+  "name" : "Alexandra",
+  "last" : "Ibarra",
+  "group" : "alumni",
+  "job" : "Djavu",
+  "www" : "",
+  "twitter" : "",
+  "github" : "Syrah0",
+  "picurl" : "assets/images/people/ale.jpg"
+  },
+  {
+  "name" : "Martin",
+  "last" : "Panza",
+  "group" : "alumni",
+  "job" : "Zipedi Inc",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/martin.jpg"
+  },
+  {
+  "name" : "Alvaro",
+  "last" : "Graves",
+  "group" : "alumni",
+  "job" : "Apple, USA.",
+  "www" : "",
+  "twitter" : "alvarograves",
+  "github" : "alangrafu",
+  "picurl" : "https://avatars0.githubusercontent.com/u/259102?v=3&s=460"
+  },
+  {
+  "name" : "Gabriel",
+  "last" : "Del Canto",
+  "group" : "alumni",
+  "job" : "BICE Vida, Chile",
+  "www" : "",
+  "twitter" : "gabodelcanto",
+  "github" : "",
+  "picurl" : "https://pbs.twimg.com/profile_images/705717278017527808/RE5TIOm__400x400.jpg"
+  },
+  {
+  "name" : "Felipe",
+  "last" : "Lalanne",
+  "group" : "alumni",
+  "job" : "balena, uk",
+  "www" : "",
+  "twitter" : "pipex",
+  "github" : "pipex",
+  "picurl" : "assets/images/people/felipel.jpg"
+  },
+  {
+  "name" : "Giselle",
+  "last" : "Font",
+  "group" : "alumni",
+  "job" : "Loon SRE, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "gisellef",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C5603AQFvVyCGp90CuQ/profile-displayphoto-shrink_800_800/0/1584993070075?e=1640217600&v=beta&t=YfD3VXfnQpQAaUVvBis55BtO7Xt9AH0Mf3EAw3VUxy0"
+  },
+  {
+  "name" : "Victor",
+  "last" : "Ramiro",
+  "group" : "alumni",
+  "job" : "EasyMile, France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C4E03AQFAvzTX5TfIHQ/profile-displayphoto-shrink_200_200/0/1629275204859?e=1639612800&v=beta&t=Xe-F0dpLFaJedLrRcIlCUVXqNbb3oFPC7d_8yDRq9Mg"
+  },
+  {
+  "name" : "Cecilia",
+  "last" : "Testart",
+  "group" : "alumni",
+  "job" : "Engineering Systems Division, MIT, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "", 
+  "picurl" : "http://eecsgsa.mit.edu/wp-content/uploads/2015/02/cecilia_testart-275x300.png"
+  },
+
+  {
+  "name" : "Diego",
+  "last" : "Rivera",
+  "group" : "alumni",
+  "job" : "MontImage, France",
+  "www" : "",
+  "twitter" : "redeyesdemon",
+  "github" : "",
+  "picurl" : "assets/images/people/drivera.jpg"
+  },
+  {
+  "name" : "Patrizia",
+  "last" : "Prato",
+  "group" : "pro",
+  "job" : "Communications",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/patrizia.jpg"
+  },
+  {
+  "name" : "Ma. Grazia",
+  "last" : "Prato",
+  "group" : "pro",
+  "job" : "UX/UI Designer",
+  "www" : "",
+  "twitter" : "graziaprato",
+  "github" : "",
+  "picurl" : "assets/images/people/grazia.jpg"
+  },
+  {
+  "name" : "Matias",
+  "last" : "Ibañez",
+  "group" : "alumni",
+  "job" : "Digital Experience Lab, Principal Financial Group",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/matias.jpg"
+  },
+  {
+  "name" : "Gonzalo",
+  "last" : "Muñoz",
+  "group" : "alumni",
+  "job" : "NIC Chile",
+  "www" : "http://www.nic.cl",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/gmunoz.jpg"
+  },
+  {
+  "name" : "Hugo",
+  "last" : "Meric",
+  "group" : "alumni",
+  "job" : "CNES, France",
+  "www" : "http://hugo.meric.perso.sfr.fr/",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C5603AQGGjERpsy-r7g/profile-displayphoto-shrink_800_800/0/1516979409511?e=1640217600&v=beta&t=u-5_9r_fTxM-047XDUtoqNWZIQCogY5k9BchXeZLmEo"
+  },
+  {
+  "name" : "Francisco",
+  "last" : "Cifuentes",
+  "group" : "alumni",
+  "job" : "Synopsys Inc. Chile",
+  "www" : "",
+  "twitter" : "franchococq",
+  "github" : "",
+  "picurl" : "assets/images/people/pancho.jpeg"
+  },
+{
+  "name" : "Mario",
+  "last" : "Cornejo",
+  "group" : "alumni",
+  "job" : "Deezer, France",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://pbs.twimg.com/profile_images/937573065294254080/ZCn1PsMm_400x400.jpg"
+  },
+  {
+  "name" : "Mario",
+  "last" : "Leyton",
+  "group" : "alumni",
+  "job" : "Google, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "mleyton",
+  "picurl" : "https://avatars3.githubusercontent.com/u/123413"
+  },
+    {
+  "name" : "Alfredo",
+  "last" : "Cadiz",
+  "group" : "alumni",
+  "job" : "Vodafone DE, Germany",
+  "www" : "",
+  "twitter" : "badger_cl",
+  "github" : "",
+  "picurl" : "assets/images/people/acadiz.jpg"
+  },
+    {
+  "name" : "Antonio",
+  "last" : "Cansado",
+  "group" : "alumni",
+  "job" : "Google, USA",
+  "www" : "",
+  "twitter" : "",
+  "github" : "acansado",
+  "picurl" : "https://avatars1.githubusercontent.com/u/777912"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Valenzuela",
+  "group" : "alumni",
+  "job" : "DSTI Universidad de Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "pvalenzuela",
+  "picurl" : "https://avatars0.githubusercontent.com/u/276864"
+  },
+   {
+  "name" : "Alvaro",
+  "last" : "Neira",
+  "group" : "alumni",
+  "job" : "RIPLEY Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/aneira.jpg"
+  },
+   {
+  "name" : "Gabriel",
+  "last" : "Hourton",
+  "group" : "alumni",
+  "job" : "BICE Vida, Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/ghourton.jpg"
+  },  
+  {
+  "name" : "Pamela",
+  "last" : "Carvallo",
+  "group" : "alumni",
+  "job" : "MontImage, France",
+  "www" : "",
+  "twitter" : "funkehlady",
+  "github" : "pcarvallo",
+  "picurl" : "https://avatars1.githubusercontent.com/u/945564"
+  },
+  {
+  "name" : "Javiera",
+  "last" : "Born",
+  "group" : "alumni",
+  "job" : "NextMark, Inc, USA",
+  "www" : "",
+  "twitter" : "booorn",
+  "github" : "",
+  "picurl" : "assets/images/people/javiborn.jpg"
+  },
+  {
+  "name" : "Jacqueline",
+  "last" : "Araya",
+  "group" : "alumni",
+  "job" : "Columbia Business School, USA",
+  "www" : "",
+  "twitter" : "Jacky_Araya",
+  "github" : "",
+  "picurl" : "assets/images/people/jacky.jpg"
+  },
+  {
+  "name" : "Chiqui",
+  "last" : "Canis Lupus Familiaris",
+  "group" : "alumni",
+  "job" : "Retirement",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/chiqui.jpg"
+  },
+  {
+  "name" : "Kuru",
+  "last" : "Martínez",
+  "group" : "pro",
+  "job" : "Emotional Support Dog",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/kuru.jpg"
+  }
+]
+
