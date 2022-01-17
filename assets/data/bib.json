@@ -69,6 +69,7 @@
 {
 "key": "article",
 "title": "Extracting human behavior patterns from DNS traffic",
+"id" : "ratadns.7",
 "author": "Panza, Martín and Madariaga, Diego and Bustos-Jiménez, Javier",
 "journal": "Annals of Telecommunications",
 "volume": "",
