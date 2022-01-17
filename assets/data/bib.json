@@ -68,6 +68,19 @@
 },
 {
 "key": "article",
+"title": "Extracting human behavior patterns from DNS traffic",
+"author": "Panza, Martín and Madariaga, Diego and Bustos-Jiménez, Javier",
+"journal": "Annals of Telecommunications",
+"volume": "",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year": 2022,
+"pages": "0 (Online)",
+"publisher": "Springer",
+"link": "https://doi.org/10.1007/s12243-021-00888-2"
+},
+{
+"key": "article",
 "title": "Characterization of robustness and resilience in graphs: a mini-review",
 "author": "Schaeffer, Satu Elisa and Valdés, Valeria and Figols, Javiera and Bachmann, Ivana and Morales, Fernando and Bustos-Jiménez, Javier",
 "journal": "Journal of Complex Networks",
