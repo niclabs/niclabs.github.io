@@ -58,6 +58,17 @@
 },
 {
 "key" : "software",
+"id" : "http2.0",
+"title" : "two: HTTP/2 for constrained IoT devices",
+"desc" : "Experimental HTTP/2 server and library, aimed at use in constrained devices. The implementation uses a single thread for handling clients, and each client requires around 1.5K of static RAM in the base configuration (without HPACK dynamic table). This can be further reduced through configuration macros.",
+"link" : "https://github.com/niclabs/two",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"begin" : 2019,
+"end" : 2020
+},
+{
+"key" : "software",
 "id" : "dnstools.0",
 "title" : "DNS Tools",
 "desc" : "A command line tool (CLI), written in Go language, that allows you to sign with DNSSEC a zone, create zone integrity records called ZONEMD, and in turn validate these signatures and records. It is maintained as open source code on github with MIT license.",
@@ -65,6 +76,58 @@
 "orgurl" : "http://niclabs.cl",
 "org" : "NIC Labs",
 "begin" : 2019
+},
+{
+"key" : "article",
+"title" : "Packet Fragmentation over Sigfox: Implementation and Performance Evaluation of SCHC ACK-on-Error",
+"author" : "Aguilar, Sergio and Wistuba La-Torre, Diego and Platis, Antonis and Vidal, Rafael and Gomez, Carles and Céspedes, Sandra and Zúñiga, Juan Carlos",
+"journal" : "Internet of Things",
+"volume" : "0",
+"year" : 2021,
+"pages" : "0 (Online)",
+"publisher" : "IEEE",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"link" : "https://ieeexplore.ieee.org/abstract/document/9610142"
+},
+{
+"key" : "article",
+"title" : "RESS-IoT: A Scalable Energy-Efficient MAC Protocol for Direct-to-Satellite IoT",
+"author" : "Ortigueira, Raydel and Fraire, Juan and Becerra, Alex and Ferrer, Tomás and Céspedes, Sandra",
+"journal" : "IEEE Access",
+"volume" : "9",
+"year" : 2021,
+"pages" : "164440-164453",
+"publisher" : "IEEE",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"link" : "https://ieeexplore.ieee.org/abstract/document/9645758"
+},
+{
+"key" : "article",
+"title" : "SCHC over LoRaWAN Efficiency: Evaluation and Experimental Performance of Packet Fragmentation",
+"author" : "Muñoz, Rodrigo and Saez Hidalgo, Juan, and Canales, Felipe and Dujovne, Diego and Céspedes, Sandra",
+"journal" : "Sensors",
+"volume" : "22(4)",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year": 2022,
+"pages": "0 (Online)",
+"publisher" : "MDPI",
+"link" : "https://www.mdpi.com/1424-8220/22/4/1531"
+},
+{
+"key" : "article",
+"title" : "Direct-to-Satellite IoT Slotted Aloha Systems with Multiple Satellites and Unequal Erasure Probabilities",
+"author" : "Tondo, Felipe Augusto and Montejo-Sanchez, Samuel and Pellenz, Marcelo Eduardo and Céspedes, Sandra and Demo Souza, Richard",
+"journal" : "Sensors",
+"volume" : "21(21)",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year": 2021,
+"pages": "0 (Online)",
+"publisher" : "MDPI",
+"link" : "https://www.mdpi.com/1424-8220/21/21/7099"
 },
 {
 "key": "article",
