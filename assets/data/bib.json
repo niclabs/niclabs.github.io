@@ -79,6 +79,19 @@
 },
 {
 "key" : "article",
+"title" : "Toward the Coexistence of Cognitive Networks for Vehicular Communications on TVWS for IEEE Std. 802.22",
+"author" : "Arteaga, Adriana and Céspedes, Sandra and Azurdia-Meza, César",
+"journal" : "Transactions on Cognitive Communications and Networking ",
+"volume" : "0",
+"year" : 2022,
+"pages" : "0 (Online)",
+"publisher" : "IEEE",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"link" : "https://ieeexplore.ieee.org/abstract/document/9771218"
+},
+{
+"key" : "article",
 "title" : "Packet Fragmentation over Sigfox: Implementation and Performance Evaluation of SCHC ACK-on-Error",
 "author" : "Aguilar, Sergio and Wistuba La-Torre, Diego and Platis, Antonis and Vidal, Rafael and Gomez, Carles and Céspedes, Sandra and Zúñiga, Juan Carlos",
 "journal" : "Internet of Things",
