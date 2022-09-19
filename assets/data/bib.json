@@ -79,6 +79,20 @@
 },
 {
 "key" : "article",
+"title" : "Uplink Transmission Policies for LoRa-Based Direct-to-Satellite IoT", 
+"author" : "Álvarez, Guido and Fraire, Juan A. and Hassan, Khaled Abdelfadeel and Céspedes, Sandra and Pesch, Dirk",
+"journal": "IEEE Access", 
+"volume" : "10",
+"pages" : "72687--72701",
+"year" : 2022,
+"org" : "NIC Labs",
+"publisher" : "IEEE",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"link" : "https://ieeexplore.ieee.org/document/9825690"
+},
+{
+"key" : "article",
 "title" : "Toward the Coexistence of Cognitive Networks for Vehicular Communications on TVWS for IEEE Std. 802.22",
 "author" : "Arteaga, Adriana and Céspedes, Sandra and Azurdia-Meza, César",
 "journal" : "Transactions on Cognitive Communications and Networking ",
