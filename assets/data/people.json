@@ -1,13 +1,13 @@
 [
   { 
   "name" : "Sandra",
-  "last" : "Cespedes",
+  "last" : "Céspedes",
   "job" : "Concordia University, Canada",
   "group" : "researcher",
   "www" : "http://www.cec.uchile.cl/~scespedes",
   "twitter" : "scespedes",
   "github" : "scespedes",
-  "picurl" : "assets/images/people/sandra.png"
+  "picurl" : "assets/images/people/sandra.jpg"
   },
   {
   "name" : "Javier",
@@ -22,8 +22,8 @@
   {
   "name" : "Jose",
   "last" : "Piquer",
-  "job" : "DCC, Universidad de Chile",
-  "group" : "researcher",
+  "job" : "VTI, Universidad de Chile",
+  "group" : "alumni",
   "www" : "http://www.dcc.uchile.cl/~jpiquer",
   "twitter" : "jpiquer",
   "github" : "",
@@ -38,6 +38,16 @@
   "twitter" : "ahevia",
   "github": "",
   "picurl" : "assets/images/people/hevia.png"
+  },
+  {
+  "name" : "Paula",
+  "last" : "Fernandez",
+  "group" : "pro",
+  "job" : "Designer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C4E03AQFVI_CAE1Gu8w/profile-displayphoto-shrink_400_400/0/1663287401813?e=1671062400&v=beta&t=Gtr_y7gl5jeZVFZSZPgYvct23CvyDit95e84CFU9CfU"
   },
   {
   "name" : "Rodrigo",
@@ -73,11 +83,21 @@
   "name" : "Boris",
   "last" : "Romero",
   "group" : "alumni",
-  "job" : "Calce.org",
+  "job" : "Cornershop by Uber",
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
   "picurl" : "assets/images/people/boris.jpg"
+  },
+  {
+  "name" : "Danilo",
+  "last" : "Moreira",
+  "group" : "alumni",
+  "job" : "MSc DIE Universidad de Chile",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/danilo.jpg"
   },
   {
   "name" : "Felipe",
@@ -93,7 +113,7 @@
   "name" : "Catalina",
   "last" : "Alvarez",
   "group" : "alumni",
-  "job" : "PhD ETH Zurich",
+  "job" : "PhD EPFL, Switzerland",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -120,44 +140,14 @@
   "picurl" : "assets/images/people/mery.jpg"
   },
   {
-  "name" : "Mauricio",
-  "last" : "Araya",
-  "group" : "external",
-  "job" : "Computing and Modeling, Shell Oil USA",
+  "name" : "Vicente",
+  "last" : "Ardiles",
+  "group" : "under",
+  "job" : "Undergrad Student",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/009/028/2698224.jpg"
-  },
-  {
-  "name" : "Alonso",
-  "last" : "Silva",
-  "group" : "external",
-  "job" : "NOKIA Bell Labs, France",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/000/1d8/38a/389afbf.jpg"
-  },
-  {
-  "name" : "Patricio",
-  "last" : "Reyes",
-  "group" : "external",
-  "job" : "ITMATI, Spain",
-  "www" : "",
-  "twitter" : "pareyesv",
-  "github" : "",
-  "picurl" : "http://portal.uc3m.es/portal/pls/portal/docs/44390049.JPG"
-  },
-  {
-  "name" : "Tobias",
-  "last" : "Schreck",
-  "group" : "external",
-  "job" : "Graz University of Technology, Austria",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "https://scholar.google.com/citations?view_op=medium_photo&user=9cJsSIIAAAAJ&citpid=1"
+  "picurl" : "assets/images/people/vicenteardiles.jpg"
   },
   {
   "name" : "Diego",
@@ -184,9 +174,9 @@
   {
   "name" : "Ivana",
   "last" : "Bachmann",
-  "group" : "grad",
+  "group" : "researcher",
   "grad" : "PhD",
-  "job" : "PhD student",
+  "job" : "Researcher",
   "www" : "",
   "twitter" : "ivapls",
   "github" : "",
@@ -324,16 +314,6 @@
   "picurl" : "assets/images/people/jmadariaga.jpg"
   },
   {
-  "name" : "Danilo",
-  "last" : "Moreira",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/danilo.jpg"
-  },
-  {
   "name" : "Lucas",
   "last" : "Torrealba",
   "group" : "grad",
@@ -396,8 +376,8 @@
   {
   "name" : "Javiera",
   "last" : "Bermúdez",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "grad",
+  "job" : "MSc student",
   "www" : "",
   "twitter" : "",
   "github" : "Javi801",
@@ -507,7 +487,7 @@
   "name" : "Giselle",
   "last" : "Font",
   "group" : "alumni",
-  "job" : "Loon SRE, USA",
+  "job" : "Google SRE, US",
   "www" : "",
   "twitter" : "",
   "github" : "gisellef",
@@ -527,7 +507,7 @@
   "name" : "Cecilia",
   "last" : "Testart",
   "group" : "alumni",
-  "job" : "Engineering Systems Division, MIT, USA",
+  "job" : "Assistant Professor at Georgia Tech, US",
   "www" : "",
   "twitter" : "",
   "github" : "", 
@@ -538,7 +518,7 @@
   "name" : "Diego",
   "last" : "Rivera",
   "group" : "alumni",
-  "job" : "MontImage, France",
+  "job" : "Riscure, The Netherlands",
   "www" : "",
   "twitter" : "redeyesdemon",
   "github" : "",
@@ -598,7 +578,7 @@
   "name" : "Francisco",
   "last" : "Cifuentes",
   "group" : "alumni",
-  "job" : "Synopsys Inc. Chile",
+  "job" : "Topsort. Chile",
   "www" : "",
   "twitter" : "franchococq",
   "github" : "",
@@ -608,7 +588,7 @@
   "name" : "Mario",
   "last" : "Cornejo",
   "group" : "alumni",
-  "job" : "Deezer, France",
+  "job" : "CTO Filite, France",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -648,7 +628,7 @@
   "name" : "Pablo",
   "last" : "Valenzuela",
   "group" : "alumni",
-  "job" : "DSTI Universidad de Chile",
+  "job" : "SP Digital, Chile",
   "www" : "",
   "twitter" : "",
   "github" : "pvalenzuela",
@@ -698,7 +678,7 @@
   "name" : "Jacqueline",
   "last" : "Araya",
   "group" : "alumni",
-  "job" : "Columbia Business School, USA",
+  "job" : "Data Analyst MOLOCO, UK",
   "www" : "",
   "twitter" : "Jacky_Araya",
   "github" : "",
