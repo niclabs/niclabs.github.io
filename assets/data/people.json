@@ -287,7 +287,7 @@
   "name" : "Manuel",
   "last" : "Olguin",
   "group" : "alumni",
-  "job" : "PhD, KTH Royal Institute of Technology, Sweden",
+  "job" : "Cloudfare, US",
   "www" : "",
   "twitter" : "",
   "github" : "molguin92",
@@ -316,8 +316,8 @@
   {
   "name" : "Javier",
   "last" : "Madariaga",
-  "group" : "grad",
-  "job" : "MSc student",
+  "group" : "alumni",
+  "job" : "PhD student at NCSU",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -332,16 +332,6 @@
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/danilo.jpg"
-  },
-  {
-  "name" : "Pablo",
-  "last" : "Martín",
-  "group" : "grad",
-  "job" : "MSc student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/pablomartin.jpg"
   },
   {
   "name" : "Lucas",
@@ -364,34 +354,14 @@
   "picurl" : "assets/images/people/witu.jpg"
   },
   {
-  "name" : "Camila",
-  "last" : "Labarca",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/camilabarca.jpg"
-  },
-  {
   "name" : "Nelson",
   "last" : "Marambio",
-  "group" : "under",
-  "job" : "Undergrad student",
+  "group" : "grad",
+  "job" : "MSc student",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/nelson.jpg"
-  },
-  {
-  "name" : "Julia",
-  "last" : "Paredes",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/julia.jpg"
   },
   {
   "name" : "Valeria",
@@ -402,36 +372,6 @@
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/vcardoza.jpg"
-  },
-  {
-  "name" : "Jose",
-  "last" : "Astorga",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/jose.jpeg"
-  },
-  {
-  "name" : "Juan",
-  "last" : "Saez",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "StarBrand",
-  "picurl" : "assets/images/people/juan.jpeg"
-  },
-  {
-  "name" : "Pablo",
-  "last" : "Aliaga",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/pablo.jpeg"
   },
   {
   "name" : "Valeria",
@@ -464,16 +404,6 @@
   "picurl" : "assets/images/people/javi.jpg"
   },
   {
-  "name" : "Gabriel",
-  "last" : "Flores",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/gabrielflores.jpg"
-  },
-  {
   "name" : "Kelly",
   "last" : "Wagemann",
   "group" : "under",
@@ -497,7 +427,7 @@
   "name" : "Eduardo",
   "last" : "Riveros",
   "group" : "alumni",
-  "job" : "BancoEstado, Chile",
+  "job" : "Fintual",
   "www" : "",
   "twitter" : "",
   "github" : "adderou",
@@ -601,7 +531,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "", 
-  "picurl" : "http://eecsgsa.mit.edu/wp-content/uploads/2015/02/cecilia_testart-275x300.png"
+  "picurl" : "https://media-exp1.licdn.com/dms/image/C4E03AQHRzAHTzaXGIw/profile-displayphoto-shrink_400_400/0/1573880666942?e=1671062400&v=beta&t=8cDfo5DkmzXKmg8cvfPjEThvtSJi9upGBN71FNCdBMg"
   },
 
   {
