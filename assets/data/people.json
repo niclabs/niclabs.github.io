@@ -140,6 +140,16 @@
   "picurl" : "assets/images/people/mery.jpg"
   },
   {
+  "name" : "Diego",
+  "last" : "Maldonado",
+  "group" : "grad",
+  "job" : "MSc Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/diegomaldonado.jpg"
+  },
+  {
   "name" : "Valentina",
   "last" : "Esteban",
   "group" : "under",
