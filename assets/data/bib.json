@@ -1,6 +1,17 @@
 [
 {
 "key": "inproceedings",
+"title": "Using Localized Attacks with Probabilistic Failures to Model Seismic Events over Physical-Logical Interdependent Networks",
+"author": "Bachmann, Ivana and Bustos-Jiménez, Javier",
+"booktitle" : "NetSci-X",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year" : 2022,
+"link" : "https://link.springer.com/chapter/10.1007/978-3-030-97240-0_1",
+"publisher" : "Springer LNCS"
+},
+{
+"key": "inproceedings",
 "id": "pepa.10",
 "title": "PePa Ping Dataset: Comprehensive Contextualization of Periodic Passive Ping in Wireless Networks",
 "author": "Madariaga, Diego and Torrealba, Lucas and Madariaga, Javier and Bustos-Jiménez, Javier and Bustos, Benjamín",
@@ -90,6 +101,19 @@
 "orgurl" : "http://niclabs.cl",
 "org" : "NIC Labs",
 "link" : "https://ieeexplore.ieee.org/document/9825690"
+},
+{
+"key" : "article",
+"title" : "Effect of adding physical links on the robustness of the Internet modeled as a physical–logical interdependent network using simple strategies",
+"author" : "Bachmann, Ivana and Valdés, Valeria and Bustos-Jiménez, Javier and Bustos, Benjamín",
+"journal" : "International Journal of Critical Infrastructure Protection",
+"volume" : "36",
+"year" : 2022,
+"pages" : "0 (Online)",
+"publisher" : "Elsevier",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"link" : "https://doi.org/10.1016/j.ijcip.2021.100483"
 },
 {
 "key" : "article",
