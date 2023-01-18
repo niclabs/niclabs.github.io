@@ -375,19 +375,9 @@
   },
   {
   "name" : "Valeria",
-  "last" : "Cardoza",
-  "group" : "under",
-  "job" : "Undergrad student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/vcardoza.jpg"
-  },
-  {
-  "name" : "Valeria",
   "last" : "Valdés",
-  "group" : "grad",
-  "job" : "MSc student",
+  "group" : "alumni",
+  "job" : "MontImage, France",
   "www" : "",
   "twitter" : "",
   "github" : "valeriavaldes",
@@ -553,16 +543,6 @@
   "twitter" : "redeyesdemon",
   "github" : "",
   "picurl" : "assets/images/people/drivera.jpg"
-  },
-  {
-  "name" : "Patrizia",
-  "last" : "Prato",
-  "group" : "pro",
-  "job" : "Communications",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/patrizia.jpg"
   },
   {
   "name" : "Ma. Grazia",
