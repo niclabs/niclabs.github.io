@@ -30,16 +30,6 @@
   "picurl" : "assets/images/people/piquer.png"
   },
   {
-  "name" : "Alejandro",
-  "last" : "Hevia",
-  "job" : "DCC, Universidad de Chile",
-  "group" : "researcher",
-  "www" : "http://www.dcc.uchile.cl/~ahevia",
-  "twitter" : "ahevia",
-  "github": "",
-  "picurl" : "assets/images/people/hevia.png"
-  },
-  {
   "name" : "Paula",
   "last" : "Fernández",
   "group" : "pro",
