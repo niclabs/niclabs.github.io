@@ -150,6 +150,16 @@
   "picurl" : ""
   },
   {
+  "name" : "Francisca",
+  "last" : "Ortega",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/franciscaortega.jpg"
+  },
+  {
   "name" : "Valeria",
   "last" : "Burgos",
   "group" : "under",
