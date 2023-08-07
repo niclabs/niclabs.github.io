@@ -4,7 +4,7 @@
   "last" : "Céspedes",
   "job" : "Concordia University, Canada",
   "group" : "researcher",
-  "www" : "http://www.cec.uchile.cl/~scespedes",
+  "www" : "https://www.concordia.ca/faculty/sandra-cespedes.html",
   "twitter" : "scespedes",
   "github" : "scespedes",
   "picurl" : "assets/images/people/sandra.jpg"
@@ -147,7 +147,37 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/D4D03AQGgJm0N9XbPQg/profile-displayphoto-shrink_100_100/0/1665689542855?e=1696464000&v=beta&t=e66ble_6dwe_5idBqMDvD6jeo2bNFPWw8GFzN2LSniQ"
+  "picurl" : ""
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Burgos",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/valeburgos.jpg"
+  },
+  {
+  "name" : "Lady",
+  "last" : "Esquivel",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/ladyesquivel.jpg"
+  },
+  {
+  "name" : "Renzo",
+  "last" : "Zanca",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/renzozanca.jpg"
   },
   {
   "name" : "Cristian",
@@ -536,11 +566,11 @@
   },
   {
   "name" : "Ma. Grazia",
-  "last" : "Prato",
+  "last" : "Maszak-Prato",
   "group" : "pro",
   "job" : "UX/UI Designer",
-  "www" : "",
-  "twitter" : "graziaprato",
+  "www" : "https://www.linkedin.com/in/graziaprato",
+  "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/grazia.jpg"
   },
