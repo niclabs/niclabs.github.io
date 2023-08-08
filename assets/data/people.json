@@ -143,11 +143,21 @@
   "name" : "Valentina",
   "last" : "Esteban",
   "group" : "under",
+  "job" : "Junior Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/valeesteban.jpg"
+  },
+  {
+  "name" : "Darlene",
+  "last" : "Sobarzo",
+  "group" : "under",
   "job" : "Undergrad Student",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : ""
+  "picurl" : "assets/images/people/darlene.jpg"
   },
   {
   "name" : "Francisca",
@@ -193,7 +203,7 @@
   "name" : "Cristian",
   "last" : "Lillo",
   "group" : "under",
-  "job" : "Undergrad Student",
+  "job" : "Junior Engineer",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -394,16 +404,6 @@
   "picurl" : "assets/images/people/witu.jpg"
   },
   {
-  "name" : "Nelson",
-  "last" : "Marambio",
-  "group" : "grad",
-  "job" : "MSc student",
-  "www" : "",
-  "twitter" : "",
-  "github" : "",
-  "picurl" : "assets/images/people/nelson.jpg"
-  },
-  {
   "name" : "Valeria",
   "last" : "Valdés",
   "group" : "alumni",
@@ -437,7 +437,7 @@
   "name" : "Kelly",
   "last" : "Wagemann",
   "group" : "under",
-  "job" : "Undergrad student",
+  "job" : "Junior Engineer",
   "www" : "",
   "twitter" : "",
   "github" : "kelly97wagemann",
