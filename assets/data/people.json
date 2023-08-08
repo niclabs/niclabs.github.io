@@ -160,6 +160,36 @@
   "picurl" : "assets/images/people/camilareyes.jpg"
   },
   {
+  "name" : "Katia",
+  "last" : "Fredes",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/katiafredes.jpg"
+  },
+  {
+  "name" : "Gonzalo",
+  "last" : "Sobarzo",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/gonzalosobarzo.jpg"
+  },
+  {
+  "name" : "Pablo",
+  "last" : "Villar",
+  "group" : "grad",
+  "job" : "MSc Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/pablovillar.jpg"
+  },
+  {
   "name" : "Darlene",
   "last" : "Sobarzo",
   "group" : "under",
