@@ -150,6 +150,16 @@
   "picurl" : "assets/images/people/valeesteban.jpg"
   },
   {
+  "name" : "Camila",
+  "last" : "Reyes",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/camilareyes.jpg"
+  },
+  {
   "name" : "Darlene",
   "last" : "Sobarzo",
   "group" : "under",
