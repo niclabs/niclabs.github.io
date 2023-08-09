@@ -11,7 +11,7 @@
   },
   {
   "name" : "Javier",
-  "last" : "Bustos-Jimenez",
+  "last" : "Bustos-Jiménez",
   "job" : "Researcher",
   "group" : "researcher",
   "www" : "http://www.dcc.uchile.cl/~jbustos",
@@ -50,7 +50,7 @@
   "picurl" : "assets/images/people/roarenas.jpg"
   },
   {
-  "name" : "Maria Jose",
+  "name" : "Maria José",
   "last" : "Vilches",
   "group" : "alumni",
   "job" : "UC London, UK",
@@ -101,7 +101,7 @@
   },
   {
   "name" : "Catalina",
-  "last" : "Alvarez",
+  "last" : "Álvarez",
   "group" : "alumni",
   "job" : "PhD EPFL, Switzerland",
   "www" : "",
@@ -345,7 +345,7 @@
   },
   {
   "name" : "Maite",
-  "last" : "Gonzalez",
+  "last" : "González",
   "group" : "pro",
   "job" : "Research Engineer",
   "www" : "",
@@ -395,7 +395,7 @@
   },
   {
   "name" : "Manuel",
-  "last" : "Olguin",
+  "last" : "Olguín",
   "group" : "alumni",
   "job" : "Cloudfare, US",
   "www" : "",
@@ -544,7 +544,7 @@
   "picurl" : "assets/images/people/ale.jpg"
   },
   {
-  "name" : "Martin",
+  "name" : "Martín",
   "last" : "Panza",
   "group" : "alumni",
   "job" : "Zipedi Inc",
@@ -554,7 +554,7 @@
   "picurl" : "assets/images/people/martin.jpg"
   },
   {
-  "name" : "Alvaro",
+  "name" : "Álvaro",
   "last" : "Graves",
   "group" : "alumni",
   "job" : "Apple, USA.",
@@ -635,7 +635,7 @@
   "picurl" : "assets/images/people/grazia.jpg"
   },
   {
-  "name" : "Matias",
+  "name" : "Matías",
   "last" : "Ibañez",
   "group" : "alumni",
   "job" : "Digital Experience Lab, Principal Financial Group",
@@ -696,7 +696,7 @@
   },
     {
   "name" : "Alfredo",
-  "last" : "Cadiz",
+  "last" : "Cádiz",
   "group" : "alumni",
   "job" : "Vodafone DE, Germany",
   "www" : "",
@@ -725,7 +725,7 @@
   "picurl" : "https://avatars0.githubusercontent.com/u/276864"
   },
    {
-  "name" : "Alvaro",
+  "name" : "Álvaro",
   "last" : "Neira",
   "group" : "alumni",
   "job" : "RIPLEY Chile",
