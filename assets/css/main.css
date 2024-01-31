@@ -1362,7 +1362,7 @@ ol {
 }
 
 .blog-grids.pagination {
-  margin-top: 50px;
+  margin-top: 60px;
   text-align: center;
 }
 
@@ -2940,4 +2940,8 @@ ol {
 
 .footer .copyright-area p a:hover {
   color: #3E80FF;
+}
+
+#proyects{
+  color: white;
 }

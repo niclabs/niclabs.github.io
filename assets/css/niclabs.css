@@ -67,6 +67,7 @@ h4.resources {
     background-color: #264891;
     position: relative;
     padding-bottom: 0;
+    
 }
 
 .footer .copyright-area .copyright-owner {
@@ -124,7 +125,6 @@ h4.resources {
 }
 
 .sidebar .widget {
-    margin-bottom: 40px;
     overflow: hidden;
     padding: 40px;
     border-radius: 8px;
@@ -136,6 +136,7 @@ h4.resources {
 
 .sidebar .widget .widget-title {
     font-size: 18px;
+    text-align: center;
     margin-bottom: 25px;
     position: relative;
     font-weight: 600;
@@ -267,6 +268,39 @@ h4.resources {
     background: 0 0;
     color: #333!important;
 }
+.sidebar{
+    overflow: hidden;
+    border-radius: 8px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+    box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+    overflow-y: scroll;
+    max-height: 80vh;
+    height: auto;    
+}
+
+.sidebar::-webkit-scrollbar{
+    width: 3px;
+   
+}
+
+.sidebar__section{
+    transition: height .4s ;
+    height: 0;
+    overflow: hidden;
+    }
+
+.arrow .list_arrow{
+ transform: rotate(90deg);
+}
+
+.list_arrow{
+    transition: transform .3s;
+}
+
+.sidebar__body{
+   overflow: hidden;
+}
 
 .sidebar__filter-image {
     max-width: 40px;
@@ -288,7 +322,7 @@ h4.resources {
 }
 
 .org {
-    float: right;
+    align-items: baseline;
 }
 
 .tag {
@@ -298,3 +332,79 @@ h4.resources {
 p {
     text-align: justify;
 }
+
+.widget-subtitle{
+    margin-top: 10px
+}
+
+#category-label{
+    cursor:pointer
+}
+/* title filter seacher*/ 
+#title-filter {
+
+    text-align: center;
+   }
+
+#author-filter {
+  
+    text-align: center;
+  
+   }
+
+#airdatepicker{
+    font-size: 85%;
+    cursor:pointer;
+    text-align: center;
+    
+}
+
+#airdatepicker:hover{
+    box-shadow: 1 1 1px grey;
+    font-weight: bold;
+  }
+
+  .filter-icon {  
+    top: 0;
+    right: 0;
+    width: 30px; 
+    height: 20px;
+    margin: 5px; 
+    cursor: pointer;
+  }
+
+  #tooltip{
+    position: relative;
+
+  }
+  #tooltiptext{
+    position: absolute;
+    left: 50%;
+    top:0;
+    color: white;
+    transform: translateX(-50%);
+    background-color: black;
+   white-space: nowrap;
+   padding: 10px 15px;
+   border-radius: 7px;
+   visibility: hidden;
+   opacity: 0;
+   transition: opacity 0.8s ease;
+  }
+
+  #tooltiptext::before{
+    content: "" ;
+    position: absolute;
+    left: 50%;
+    top:100%;
+    transform: translateX(-70%);
+    border: 15px solid;
+
+   
+  }
+
+  #tooltip:hover #tooltiptext{
+     top:-130%;
+     visibility:visible;
+     opacity:1 ;
+  }

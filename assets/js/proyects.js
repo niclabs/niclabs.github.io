@@ -27,7 +27,7 @@ if (sum == 0 || sum == 5) {
 
 function pub(id,width)
 {
-d3.json("assets/data/bib.json", function(error, data) {
+d3.json("assets/data/proyects.json", function(error, data) {
   if (error) throw error;
 
 var len = 0;
@@ -38,6 +38,8 @@ var ids = {};
 
 for (a in data)
   {
+
+    data[a].place = data[a].description;
   if (data[a].hasOwnProperty('year') && data[a].year > year) 
     {
     year = data[a].year;
@@ -50,66 +52,42 @@ for (a in data)
     }
   if (data[a].key === "article")
     {
-    data[a].place = data[a].journal;
-    data[a].place += data[a].hasOwnProperty('volume')? ': '+data[a].volume:'';
-    data[a].place += data[a].hasOwnProperty('number')? '('+data[a].number+')':'';
-    data[a].place += ', ' + (data[a].publisher+ '. ');
-    data[a].place += '. ' + data[a].hasOwnProperty('pages')? 'Pages '+data[a].pages+'.':'';
-    data[a].icon = 'assets/images/repository/papers.png';
     data[a].key = 'papers';
     c[data[a].key] += 1;
     }
   else if (data[a].key === "incollection")
     {
-    data[a].place = data[a].booktitle;
-    data[a].place += data[a].hasOwnProperty('volume')? ': '+data[a].volume:'';
-    data[a].place += data[a].hasOwnProperty('number')? '('+data[a].number+')':'';
-    data[a].place += '. ' + data[a].hasOwnProperty('pages')? 'Pages '+data[a].pages+'.':'';
-    data[a].place += ', ' + (data[a].publisher+ '. ');
-    data[a].icon = 'assets/images/repository/papers.png';
     data[a].key = 'papers';
     c[data[a].key] += 1;
     }
   else if (data[a].key === "report")
     {
-    data[a].place = data[a].publisher;
-    data[a].icon = 'assets/images/repository/papers.png';
     data[a].key = 'papers';
     c[data[a].key] += 1;
     }
   else if (data[a].key ===  "inproceedings")
     {
-    data[a].place = 'Proceedings of ' + data[a].booktitle;
-    data[a].place += ', ' + (data[a].publisher+ '. ');
-    data[a].place += data[a].hasOwnProperty('pages')? 'Pages '+data[a].pages+'.':'';
-    data[a].icon = 'assets/images/repository/talks.png';
     data[a].key = 'talks';
     c[data[a].key] += 1;
     }
   else if (data[a].key === "projects")
     {
-    data[a].place = data[a].link;
     data[a].title = 'Project: ' + data[a].title;
-    data[a].icon = 'assets/images/repository/projects.png';
     projects.push(a);
     c[data[a].key] += 1;
     }
   else if (data[a].key === "software")
     {
-    data[a].icon = 'assets/images/repository/software.png';
     c[data[a].key] += 1;
     projects.push(a);
     }
   else if (data[a].key === "database")
     {
-    data[a].icon = 'assets/images/repository/database.png';
     c[data[a].key] += 1;
     }
-  else 
-    {
-    data[a].place ="";
-    }      
+     
   len++;
+
   }
 
 for (i = 0; i < c['projects'] + c['software']; i++)
@@ -141,32 +119,35 @@ sidebar = div.append('div')
    .append('div')
    .attr('class','widget search-widget');
   
+  
 tooltip= sidebar.append('div')
     .attr('id','tooltip')
   
 span=tooltip.append('span')
-    .attr('id','tooltiptext')  
-    .html('Limpiar filtros') 
+      .attr('id','tooltiptext')  
+      .html('Limpiar filtros') 
 
 span2=tooltip.append('span')
     .append('img')
-    .attr('src', 'assets/images/filter-icon.svg')
-    .attr('class', 'filter-icon');
-
+   .attr('src', 'assets/images/filter-icon.svg')
+   .attr('class', 'filter-icon');
+   
 sidebar.append('h5')
-    .attr('class','widget-title')
-    .html('Filtros')
+   .attr('class','widget-title')
+   .html('Filtros')
   
   //Category  filter-label
 sidebar.append('div')
-    .attr('class','dropdown')
-    .append('h6')
-    .attr('class', 'widget-subtitle')
-    .attr('id','category-label')
-    .html('Categoria')
-    .append('img')
-    .attr('src','assets/images/arrow.svg')
-    .attr('class','list_arrow')
+.attr('class','dropdown')
+  .append('h6')
+   .attr('class', 'widget-subtitle')
+   .attr('id','category-label')
+   .html('Categoria')
+   .append('img')
+   .attr('src','assets/images/arrow.svg')
+   .attr('class','list_arrow')
+
+
 
 sbody = sidebar.append('div')
    .attr('class','sidebar__section')
@@ -195,12 +176,13 @@ listElements.forEach(listElement=>{
 
 Object.keys(cswitch).forEach(function(key) {
     fil = sbody.append('div')
-	    .attr('class','sidebar__filter')
-	    .append('label')
+	   .attr('class','sidebar__filter')
+	   .append('label')
 
     fil.append('input')
       .attr('id','checkbox')
 	    .attr('type','checkbox')
+
 	    .attr('name',key)
 	    .on('click',function(){divswitch(key)
         categorias=Object.keys(cswitch).filter(function (key) {
@@ -224,24 +206,36 @@ Object.keys(cswitch).forEach(function(key) {
 sidebar.append('h6')
    .attr('class', 'widget-subtitle')
    .attr('id','title-label')
-   .html('<br>Título<br><br>');
+   .html('<br>Proyecto<br><br>');
   
-   
    //title-filter-input
-sidebar.append('input')
-   .attr('type', 'text')  
-   .attr('id', 'title-filter-input')
-   .attr('placeholder', 'Ingrese el título');
+titlediv=sidebar.append('div')
+   .attr('class', 'input-group mb-3')  
+  
+titlediv.append('span')
+   .attr('class','input-group-text')
+   .attr('id','basic-addon1')
+   .append('img')
+   .attr('src','assets/images/title.svg')
+titlediv.append('input')
+   .attr('type','text')   
+   .attr('class','form-control')
+   .attr('id','title-filter')
+   .attr('placeholder','Titulo')
+   .attr('aria-label','Titulo')
+   .attr('aria-describedby',"basic-addon1")
+  
 
  /* title-input-event: saves a variable called titles.*/
- var title= document.getElementById('title-filter-input')
+ var title= document.getElementById('title-filter')
  var titles;
  title.addEventListener('input',()=>{
+
       titles=title.value
  })
 
   //d3 handling
-d3.select('#title-filter-input').on('input', function () {
+d3.select('#title-filter').on('input', function () {
   window.scrollTo({
     top: 0,
     behavior: 'smooth'
@@ -253,14 +247,25 @@ d3.select('#title-filter-input').on('input', function () {
   //author-filter-label
 sidebar.append('h6')
   .attr('class', 'widget-subtitle')
-  .html('<br>Autor<br><br>');
+  .html('<br>Integrante(s)<br><br>');
 
-sidebar.append('input')
-  .attr('type', 'text')  
-  .attr('id', 'author-filter-input')
-  .attr('placeholder', 'Ingrese el autor');
+  authordiv=sidebar.append('div')
+  .attr('class', 'input-group mb-3')  
  
-d3.select('#author-filter-input').on('input', function () {
+authordiv.append('span')
+  .attr('class','input-group-text')
+  .attr('id','basic-addon1')
+  .append('img')
+  .attr('src','assets/images/authors.svg')
+authordiv.append('input')
+  .attr('type','text')   
+  .attr('class','form-control')
+  .attr('id','author-filter')
+  .attr('placeholder','Integrantes')
+  .attr('aria-label','Autor')
+  .attr('aria-describedby',"basic-addon1")
+ 
+d3.select('#author-filter').on('input', function () {
   window.scrollTo({
     top: 0,
     behavior: 'smooth'
@@ -270,7 +275,7 @@ d3.select('#author-filter-input').on('input', function () {
   });
 
   //Author event
-var author= document.getElementById('author-filter-input')
+var author= document.getElementById('author-filter')
 var authors;
 author.addEventListener('input',()=>{
   authors=author.value
@@ -284,11 +289,23 @@ sidebar.append('h6')
 var fates;//variable for saving date input
   
 //input for date-filter
-sidebar.append('input')
-    .attr('type','text')
-    .attr('id','airdatepicker')
-    .attr('placeholder','Selecciona una fecha')
-    .attr('class','form-control')
+
+calendardiv=sidebar.append('div')
+.attr('class', 'input-group mb-3')  
+
+calendardiv.append('span')
+.attr('class','input-group-text')
+.attr('id','basic-addon1')
+.append('img')
+.attr('src','assets/images/date.svg')
+calendardiv.append('input')
+.attr('type','text')   
+.attr('class','form-control')
+.attr('id','airdatepicker')
+.attr('placeholder','Seleccione una fecha')
+.attr('aria-label','Seleccione una fecha')
+.attr('aria-describedby',"basic-addon1")
+    
 
 /* Airdatepicker: Is a modern JavaScript calendar written on ES6 with the use of CSS native variables. 
 It weights only ~ 13kb (minified + gzip). It works in every modern browser which has support of CSS native variables. 
@@ -400,6 +417,7 @@ function filterByDate(date){
 return filteredresults
 }
 
+
 d3.select('.filter-icon').on('click',function(){
   var checkboxes = document.querySelectorAll('#checkbox');
     checkboxes.forEach(function (checkbox) {
@@ -439,9 +457,12 @@ function filter(author,date,title){
   content.append('h3')
      .html('No se encontraron resultados')
     }
+  
+
   else{  updateVisualization(filteredResults) }
 
 }
+
 var isScrolling;
 var sidebar = document.querySelector('.sidebar');
 
@@ -493,11 +514,7 @@ for (i = filteredatalen - 1; i >= 0; i--)
              .html(filteredResults[i].title)
 
 
- paper.append('div')
-   .attr('class','col-1')
-   .append('img')
-     .attr('class','tag')
-     .attr('src',filteredResults[i].icon)
+
 
 if (filteredResults[i].key === 'projects' || filteredResults[i].key === 'software') {
    paper.append('div')
@@ -516,7 +533,7 @@ if (filteredResults[i].key === 'projects' || filteredResults[i].key === 'softwar
              .append('a')
        .attr('class','date')
        .attr('href',filteredResults[i].link)
-             .html('<i class="lni lni-pin"></i>' + filteredResults[i].place)
+             .html('<i class="lni lni-key"></i>' + filteredResults[i].place.slice(0,6))
 }
        
  paper.append('div')
@@ -532,67 +549,8 @@ if (filteredResults[i].key === 'projects' || filteredResults[i].key === 'softwar
    .html(filteredResults[i].desc)
 
  txt.append('p')
-   .html(filteredResults[i].author)
+   .html("<strong> Integrantes: </strong>" +" "+filteredResults[i].author)
 
-// recursos asociados
-
- if (filteredResults[i].hasOwnProperty('id')) {
-   myid = (filteredResults[i].id).split(".");
-   if (myid[1] == '0') {
-     myc = {database : 0, papers : 0, projects : 0, software : 0, talks : 0}
-     myn = 0
-       
-     Object.keys(ids[myid[0]]).forEach(function(key) {
-       if (key != '0') {
-         myn += 1
-         myc[ids[myid[0]][key]['key']] += 1;
-         }
-       })
-
-     if (myn > 0) {
- ids[myid[0]].sort(function(a,b) {
-         return (a.year < b.year)? 1 : -1;
-       })
-
-       ppr = paper.append('div')
-                  .attr('class','col-9')
- ppr.append('br')           
-       ppr.append('strong').html('Resources:');
-
-       Object.keys(ids[myid[0]]).forEach(function(key) {
-         if (ids[myid[0]][key]['key'] !== 'projects') {
-     divppr = ppr.append('div').append('li')
-           divppr.html('<a href=' + ids[myid[0]][key]['link'] + ' style="display:inline;">' +
-                                    ids[myid[0]][key]['title'] +
-                              ' (' + 
-       ids[myid[0]][key]['place'] + ', ' +
-       ids[myid[0]][key]['year'] + ')')
-           }
-         })
- ppr2 = paper.append('div')
-             .attr('class','col-3')
-   res = ppr2.append('div')
-       .attr('class','org')
-         res.append('br')
-   res.append('strong')
-      .html('Resources per type:')
-   divres = res.append('div')
-        .attr('class','sidebar__filter')
-
- Object.keys(myc).forEach(function(key) {
-   if (myc[key] > 0) {
-     divres.append('img')
-     .attr('class','sidebar__filter-image')
-     .attr('src','assets/images/repository/'+key+'.png')
-     divres.append('span')
-     .attr('class','sidebar__filter-type')
-     .html(myc[key])
-   }
-   })
-       }
-   
-     }
-   }
 }
  }
 
