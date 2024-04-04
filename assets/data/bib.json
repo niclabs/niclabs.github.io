@@ -23,6 +23,28 @@
 "publisher" : "ACM"
 },
 {
+"key": "inproceedings",
+"title": "Know Your Vulnerable Neighbors: Awareness Model for 5G C-V2X Communications Mode 2",
+"author": "Yañez, Alexis and Céspedes, Sandra and Azurdia-Mena, César",
+"booktitle" : "International ACM Symposium on Design and Analysis of Intelligent Vehicular Networks and Applications",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year" : 2023,
+"link" : "https://doi.org/10.1145/3616392.3623416",
+"publisher" : "ACM"
+},
+{
+"key": "inproceedings",
+"title": "Modeling SCHC ACK-on-Error Fragment Delivery over Sigfox",
+"author": "Wistuba, Diego and Céspedes, Sandra and Bustos-Jiménez, Javier",
+"booktitle" : "18th ACM International Symposium on QoS and Security for Wireless and Mobile Networks",
+"orgurl" : "http://niclabs.cl",
+"org" : "NIC Labs",
+"year" : 2022,
+"link" : "https://doi.org/10.1145/3551661.3561357",
+"publisher" : "ACM"
+},
+{
 "key" : "database",
 "id": "pepa.11",
 "title" : "Pepa Ping Dataset",
@@ -99,8 +121,20 @@
 "org" : "NIC Labs",
 "publisher" : "IEEE",
 "orgurl" : "http://niclabs.cl",
-"org" : "NIC Labs",
 "link" : "https://ieeexplore.ieee.org/document/9825690"
+},
+{
+"key" : "article",
+"title" : "Network Size Estimation for Direct-to-Satellite IoT", 
+"author" : "Ilabaca, Pablo and Montejo-Sanchez, Samuel and Fraire, Juan and Demo Souza, Richard and Céspedes, Sandra",
+"journal": "IEEE Internet of Things",
+"volume" : "10",
+"pages" : "6111--6125",
+"year" : 2023,
+"org" : "NIC Labs",
+"publisher" : "IEEE",
+"orgurl" : "http://niclabs.cl",
+"link" : "https://ieeexplore.ieee.org/document/9963600"
 },
 {
 "key" : "article",
