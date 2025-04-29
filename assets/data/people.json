@@ -3,7 +3,7 @@
   "name" : "Sandra",
   "last" : "Céspedes",
   "job" : "Concordia University, Canada",
-  "group" : "researcher",
+  "group" : "alumni",
   "www" : "https://www.concordia.ca/faculty/sandra-cespedes.html",
   "twitter" : "scespedes",
   "github" : "scespedes",
@@ -32,8 +32,8 @@
   {
   "name" : "Paula",
   "last" : "Fernández",
-  "group" : "pro",
-  "job" : "Graphic Communicator",
+  "group" : "alumni",
+  "job" : "Barcelona Supercomputing Center",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -73,7 +73,7 @@
   "name" : "Boris",
   "last" : "Romero",
   "group" : "alumni",
-  "job" : "Cornershop by Uber",
+  "job" : "Synopsys Inc. Chile",
   "www" : "",
   "twitter" : "",
   "github" : "Zeeerooo",
@@ -132,8 +132,8 @@
   {
   "name" : "Diego",
   "last" : "Maldonado",
-  "group" : "grad",
-  "job" : "MSc Student",
+  "group" : "alumni",
+  "job" : "",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -142,22 +142,22 @@
   {
   "name" : "Valentina",
   "last" : "Esteban",
-  "group" : "under",
-  "job" : "Junior Engineer",
+  "group" : "grad",
+  "job" : "MSc Student",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/valeesteban.jpg"
   },
 {
-  "name" : "Yareli",
-  "last" : "Rojas",
-  "group" : "under",
-  "job" : "Undergrad Student",
+  "name" : "Melanie",
+  "last" : "Aldunce",
+  "group" : "pro",
+  "job" : "CEO & PMO",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "assets/images/people/yareli.jpg"
+  "picurl" : "assets/images/people/melanie.jpg"
   },
   {
   "name" : "Camila",
@@ -173,7 +173,7 @@
   "name" : "Katia",
   "last" : "Fredes",
   "group" : "under",
-  "job" : "Undergrad Student",
+  "job" : "Junior Engineer",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -182,38 +182,118 @@
   {
   "name" : "Gonzalo",
   "last" : "Sobarzo",
-  "group" : "under",
-  "job" : "Undergrad Student",
+  "group" : "grad",
+  "job" : "MSc Student",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/gonzalosobarzo.jpg"
   },
   {
+  "name" : "Sebasti&aacute;n",
+  "last" : "Henr&iacute;quez",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/sebahenriquez.jpg"
+  },
+  {
   "name" : "Pablo",
   "last" : "Villar",
-  "group" : "grad",
-  "job" : "MSc Student",
+  "group" : "alumni",
+  "job" : "",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/pablovillar.jpg"
   },
   {
-  "name" : "Darlene",
-  "last" : "Sobarzo",
+  "name" : "Valentina",
+  "last" : "Montoya",
+  "group" : "under",
+  "job" : "Junior Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "https://media.licdn.com/dms/image/v2/D4D03AQF8dBxA8Jcyzg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678808294302?e=1751500800&v=beta&t=jl7lvkJtHqRuEb99WPweGWlaZIJJdkdWmaoGF7hP0F8"
+  },
+  {
+  "name" : "Valentina",
+  "last" : "Ram&iacute;rez",
   "group" : "under",
   "job" : "Undergrad Student",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "assets/images/people/darlene.jpg"
+  "picurl" : ""
+  },
+  {
+  "name" : "Sof&iacute;a",
+  "last" : "Arce",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : ""
+  },
+  {
+  "name" : "Crist&oacute;bal",
+  "last" : "Stamm",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/cristobal.jpg"
+  },  
+  {
+  "name" : "Andr&eacute;s",
+  "last" : "Basaez",
+  "group" : "under",
+  "job" : "Junior Engineer",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/andy.jpg"
+  },  
+  {
+  "name" : "Diego",
+  "last" : "Garc&iacute;a",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : ""
+  }, 
+  {
+  "name" : "Jos&eacute; Pablo",
+  "last" : "Canales",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/jp.jpg"
+  },
+  {
+  "name" : "Valeria",
+  "last" : "Serrano",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : ""
   },
   {
   "name" : "Francisca",
   "last" : "Ortega",
   "group" : "under",
-  "job" : "Undergrad Student",
+  "job" : "Junior Engineer",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -222,48 +302,68 @@
   {
   "name" : "Valeria",
   "last" : "Burgos",
-  "group" : "under",
-  "job" : "Undergrad Student",
+  "group" : "alumni",
+  "job" : "",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/valeburgos.jpg"
   },
   {
-  "name" : "Lady",
-  "last" : "Esquivel",
-  "group" : "under",
-  "job" : "Undergrad Student",
+  "name" : "Naom&iacute;",
+  "last" : "Cautivo",
+  "group" : "alumni",
+  "job" : "iConstruye",
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "assets/images/people/ladyesquivel.jpg"
+  "picurl" : "https://media.licdn.com/dms/image/v2/D4E03AQEC7vKxlDWkHQ/profile-displayphoto-shrink_400_400/B4EZXeWMKfGwAg-/0/1743192133921?e=1751500800&v=beta&t=3vMwbI7ZGcfAThGCpfXtY7tXVN-irbQQCtwGoh3qrTE"
   },
   {
   "name" : "Renzo",
   "last" : "Zanca",
-  "group" : "under",
-  "job" : "Undergrad Student",
+  "group" : "alumni",
+  "job" : "",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/renzozanca.jpg"
   },
   {
+  "name" : "Vicente",
+  "last" : "Videla",
+  "group" : "grad",
+  "job" : "MSc Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/vicentevidela.jpg"
+  },
+  {
   "name" : "Cristian",
   "last" : "Lillo",
-  "group" : "under",
-  "job" : "Junior Engineer",
+  "group" : "alumni",
+  "job" : "MSc Student, OlimpIA FCFM",
   "www" : "",
   "twitter" : "",
   "github" : "",
   "picurl" : "assets/images/people/cristianlillo.jpg"
   },
   {
+  "name" : "Martina",
+  "last" : "Gonz&aacute;lez",
+  "group" : "under",
+  "job" : "Undergrad Student",
+  "www" : "",
+  "twitter" : "",
+  "github" : "",
+  "picurl" : "assets/images/people/martina.jpg"
+  },
+  {
   "name" : "Vicente",
   "last" : "Ardiles",
   "group" : "under",
-  "job" : "Undergrad Student",
+  "job" : "Junior Engineer",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -278,14 +378,14 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/C4E03AQEtHQOpkIOijQ/profile-displayphoto-shrink_100_100/0/1584643463329?e=1696464000&v=beta&t=_lRFnry8wpBX4vCciGhUlw_WTb7waqZo0xCh-ndg8_s"
+  "picurl" : "https://media.licdn.com/dms/image/v2/C4E03AQEtHQOpkIOijQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1584643464351?e=1751500800&v=beta&t=AQbyy4oJhaMOGtIYIjXW1JXRGDRFGma_RkmuQCNAOhQ"
   },
   {
   "name" : "Camila",
   "last" : "Faundez",
   "group" : "alumni",
   "grad" : "MSc",
-  "job" : "Synopsis Inc. Chile",
+  "job" : "Synopsys Inc. Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -391,7 +491,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/C5603AQFuUM4e7-1K4A/profile-displayphoto-shrink_100_100/0/1579487372277?e=1696464000&v=beta&t=-0OLIpx26riePnGy-WBnvLo_7x6rISjF4ieorxbtPCM"
+  "picurl" : "https://media.licdn.com/dms/image/v2/C5603AQFuUM4e7-1K4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1579487373063?e=1751500800&v=beta&t=uJJGA57WviVbnCRKn3R7zDBlrPkL3NgJybf1FPCUVTA"
   },
   {
   "name" : "Manuel",
@@ -447,7 +547,7 @@
   "name" : "Diego",
   "last" : "Wistuba",
   "group" : "alumni",
-  "job" : "Synopsis Chile",
+  "job" : "Synopsys Inc. Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -467,7 +567,7 @@
   "name" : "Sebastián",
   "last" : "Cifuentes",
   "group" : "alumni",
-  "job" : "CNIA, Chile",
+  "job" : "CENIA, Chile",
   "www" : "",
   "twitter" : "",
   "github" : "",
@@ -486,8 +586,8 @@
   {
   "name" : "Kelly",
   "last" : "Wagemann",
-  "group" : "under",
-  "job" : "Junior Engineer",
+  "group" : "alumni",
+  "job" : "CTO PrivAI",
   "www" : "",
   "twitter" : "",
   "github" : "kelly97wagemann",
@@ -497,7 +597,7 @@
   "name" : "Gabriela",
   "last" : "Mendoza",
   "group" : "alumni",
-  "job" : "Bain and Co.",
+  "job" : "Mercado Libre",
   "www" : "",
   "twitter" : "",
   "github" : "gabrielaelisa",
@@ -507,7 +607,7 @@
   "name" : "Eduardo",
   "last" : "Riveros",
   "group" : "alumni",
-  "job" : "Fintual",
+  "job" : "Agencia Nacional de Ciberseguridad",
   "www" : "",
   "twitter" : "",
   "github" : "adderou",
@@ -527,7 +627,7 @@
   "name" : "Felipe",
   "last" : "Espinoza",
   "group" : "alumni",
-  "job" : "EOL Universidad de Chile",
+  "job" : "CKAD, UK",
   "www" : "",
   "twitter" : "",
   "github" : "fdns",
@@ -537,7 +637,7 @@
   "name" : "Alexandra",
   "last" : "Ibarra",
   "group" : "alumni",
-  "job" : "Djavu",
+  "job" : "Bemmbo",
   "www" : "",
   "twitter" : "",
   "github" : "Syrah0",
@@ -591,7 +691,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "gisellef",
-  "picurl" : "https://media.licdn.com/dms/image/C5603AQFvVyCGp90CuQ/profile-displayphoto-shrink_100_100/0/1584993070075?e=1696464000&v=beta&t=VHO40uKOjlxsmtPvsw0llvGkyOjxd_swKRtx3sYm4_Q"
+  "picurl" : "https://media.licdn.com/dms/image/v2/C5603AQFvVyCGp90CuQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1584993070810?e=1751500800&v=beta&t=ZICYlXwiiDFj1xC8L3Ll_CgYy3emxdoLcDdKfnA2d7Q"
   },
   {
   "name" : "Victor",
@@ -601,7 +701,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/C4E03AQFAvzTX5TfIHQ/profile-displayphoto-shrink_100_100/0/1629275204859?e=1696464000&v=beta&t=yTvfkjwJk3NKMF86P9hxrrOiLPO4s6YsK3-CY_RkGjE"
+  "picurl" : "https://media.licdn.com/dms/image/v2/C4E03AQFAvzTX5TfIHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1629275205504?e=1751500800&v=beta&t=zSFBhNnbqmJkMmQWE8VngrMJfmbP240pQHSQg_0l9TM"
   },
   {
   "name" : "Cecilia",
@@ -611,7 +711,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "", 
-  "picurl" : "https://media.licdn.com/dms/image/C4E03AQHRzAHTzaXGIw/profile-displayphoto-shrink_100_100/0/1573880666942?e=1696464000&v=beta&t=bAAWFODZoFYahFuo9QQqgSNL-KOaU8aaNMo2i30l0so"
+  "picurl" : "https://media.licdn.com/dms/image/v2/C4E03AQHRzAHTzaXGIw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1573880670372?e=1751500800&v=beta&t=SlVZdHUlemRpaWRdb7DX3nHbddfefs3q4zBODQC9_MU"
   },
 
   {
@@ -662,13 +762,13 @@
   "www" : "http://hugo.meric.perso.sfr.fr/",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/C5603AQGGjERpsy-r7g/profile-displayphoto-shrink_100_100/0/1516979409511?e=1696464000&v=beta&t=r4Gf9k2t7aYJSvByoS9RA0T6Rv6Yq9hTAhjMTwEzUA0"
+  "picurl" : "https://media.licdn.com/dms/image/v2/D4D03AQGh_2wym-TzKg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718267174921?e=1751500800&v=beta&t=HE1U637Kw_Y7OHYgnlc64WKCFsxZSdBqMs3t9FU1QFU"
   },
   {
   "name" : "Francisco",
   "last" : "Cifuentes",
   "group" : "alumni",
-  "job" : "Topsort. Chile",
+  "job" : "Synopsys Inc. Chile",
   "www" : "",
   "twitter" : "franchococq",
   "github" : "",
@@ -682,7 +782,7 @@
   "www" : "",
   "twitter" : "",
   "github" : "",
-  "picurl" : "https://media.licdn.com/dms/image/D4E03AQFPc51KuNtRdw/profile-displayphoto-shrink_100_100/0/1687026903603?e=1696464000&v=beta&t=ph38nDH9zzuSB6cRi9kaf3RXraADCA5YHLPIgfZyzdA"
+  "picurl" : "https://media.licdn.com/dms/image/v2/D4E03AQEZQuZoKmjpGQ/profile-displayphoto-shrink_400_400/B4EZZDPdOWHMAg-/0/1744884847978?e=1751500800&v=beta&t=RW8cgu7h36UJJMdIJiGqX_D9M3MzO7liAdP4rFp2frY"
   },
   {
   "name" : "Mario",
@@ -708,7 +808,7 @@
   "name" : "Antonio",
   "last" : "Cansado",
   "group" : "alumni",
-  "job" : "Google, USA",
+  "job" : "Arta Finance, USA",
   "www" : "",
   "twitter" : "",
   "github" : "acansado",
@@ -758,7 +858,7 @@
   "name" : "Javiera",
   "last" : "Born",
   "group" : "alumni",
-  "job" : "NextMark, Inc, USA",
+  "job" : "Rewards Network, USA",
   "www" : "",
   "twitter" : "booorn",
   "github" : "",
